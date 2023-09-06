@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6369a60a24944d82f5dbb713"
+  },
+  "codigo": "area1",
+  "nombre": "Autonomía,Sensomotricidad y Habilidades Sociales",
+  "imagen": "fondo_autonomia.jpg"
+},{
+  "_id": {
+    "$oid": "6369a60a24944d82f5dbb714"
+  },
+  "codigo": "area2",
+  "nombre": "Comunicación y lenguaje  ",
+  "imagen": "fondo_lectura.jpg"
+},{
+  "_id": {
+    "$oid": "6369a60a24944d82f5dbb715"
+  },
+  "codigo": "area3",
+  "nombre": "Matemáticas ",
+  "imagen": "fondo_matematicas.jpg"
+},{
+  "_id": {
+    "$oid": "6369a60a24944d82f5dbb716"
+  },
+  "codigo": "area4",
+  "nombre": "Medio Natural y Social",
+  "imagen": "fondo_natural.jpg"
+},{
+  "_id": {
+    "$oid": "6369a60a24944d82f5dbb717"
+  },
+  "codigo": "area5",
+  "nombre": "Competencia digital",
+  "imagen": "fondo_digital.jpg"
+},{
+  "_id": {
+    "$oid": "6369a60a24944d82f5dbb718"
+  },
+  "codigo": "area6",
+  "nombre": "Conocimiento artístico",
+  "imagen": "fondo_musica.jpg"
+},{
+  "_id": {
+    "$oid": "6369a60a24944d82f5dbb719"
+  },
+  "codigo": "area7",
+  "nombre": "Transición al mundo laboral ",
+  "imagen": "fondo_laboral.jpg"
+}]

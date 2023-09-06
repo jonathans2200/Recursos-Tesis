@@ -1,0 +1,1641 @@
+﻿codigo;cod_competencia;identificador;nombre
+habi1;compe1;104; Los ojos responden ante la luz u otro tipo de estímulo
+habi2;compe1;108; Determina la existencia de la dominancia de uno de los ojos en las tareas visuales 
+habi3;compe1;110;Desarrolla y refuerza el control voluntario de los movimientos de los ojos
+habi4;compe1;113; Siente y percibe la presencia de la luz y promueve la reacción ante ella favoreciendo la atención visual 
+habi5;compe1;114; Favorece el contacto visual y promueve la fijación de la mirada. Mantiene el contacto ocular 
+habi6;compe1;116; Promueve la atención hacia la otra persona en sus movimientos, gestos y acciones
+habi7;compe1;118; Favorece la atención visual hacia los objetos y promueve la exploración de los mismos (desarrolla la intención de acción) 
+habi8;compe1;120; Estimula el seguimiento visual de objetos en movimiento
+habi9;compe1;121;Estimula a la persona hacia la conciencia visual del color a través de los matices de los colores más llamativos
+habi10;compe2;142;Discrimina sonido-silencio
+habi11;compe2;144;Atiende a estímulos auditivos reaccionando ante sonidos producidos por el cuerpo, por instrumentos musicales, por objetos, sonidos onomatopéyicos... 
+habi12;compe2;146;Se orienta hacia la fuente del sonido
+habi13;compe2;148;Reconoce y reacciona ante sonidos producidos por objetos de uso frecuente que le son familiares 
+habi14;compe2;150;Identifica por la voz a personas adultas y compañeros conocidos
+habi15;compe2;152;Reconoce por el tono de voz los distintos estados de ánimo
+habi16;compe2;154;Reacciona ante la variación del volumen de la música, de la intensidad de la voz
+habi17;compe2;156;Reacciona ante sonidos de distintas dependencias del entorno inmediato 
+habi18;compe2;158;Reacciona ante la producción de sonidos agradables y/o desagradables
+habi19;compe2;160;Produce sonidos tocando diferentes instrumentos, accionando distintos juguetes
+habi20;compe2;162;Diferencia entre sonidos de palabras similares
+habi21;compe3;180;Siente distintas sensaciones a través de las partes de su cuerpo tales como la cara, las manos, los brazos y las piernas 
+habi22;compe3;182;Consigue una mayor conciencia de las manos, los dedos, los brazos, las piernas y la cara
+habi23;compe3;184;Siente sensaciones contrarias: frío - calor, suavidad - rugosidad
+habi24;compe3;186;Reconoce el diferente peso de los objetos, desarrollando la posibilidad de sujetar cosas, coger y dejar
+habi25;compe3;188;Utiliza el tacto como fuente de exploración de las distintas partes del cuerpo y de distintos objetos, de una forma intencional y cada vez con mayor frecuencia  
+habi26;compe3;190;Reconoce, entre dos objetos, uno de ellos a través del tacto
+habi27;compe4;210;Mejora su capacidad y habilidad respiratoria 
+habi28;compe4;212;Toma conciencia de la inspiración y la espiración 
+habi29;compe4;214;Ante distintas sensaciones olfativas expresa respuestas de agrado o desagrado
+habi30;compe4;216;Diferencia a través del olor distintas sustancias y expresa sus gustos 
+habi31;compe4;218;Aprende a oler
+habi32;compe4;220;Adquiere el hábito de respirar por la nariz
+habi33;compe4;222;Desarrolla hábitos de higiene nasal 
+habi34;compe4;224;Aprende a sonarse 
+habi35;compe4;226;Aprende a expectorar
+habi36;compe5;240;Prueba diferentes sabores y texturas y muestra sus preferencias
+habi37;compe5;242;Fortalece la movilidad de los músculos de la boca, labios y lengua
+habi38;compe5;250;Mejora el control de la succión y la deglución y favorece la masticación por medio de terapia orofacial y miofuncional
+habi39;compe5;252;Desarrolla un programa de control del babeo
+habi40;compe5;272;Mejora el conocimiento y control de su cuerpo 
+habi41;compe5;274;Favorece el desarrollo motriz a través de ejercicios de relajación y de la realización de posturas inhibidoras de reflejos 
+habi42;compe5;276;Ejercita las conductas motóricas finas y desarrolla las habilidades manipulativas: tomar, arrastrar, soltar
+habi43;compe5;278;Desarrolla la estimulación de la prensión
+habi44;compe5;280;Desarrolla las habilidades de exploración del entorno y de orientación (izquierda, derecha, cercano, lejano, dentro, fuera, ...) 
+habi45;compe5;282;Desarrolla un estado de bienestar emocional y afectivo
+habi46;compe6;302;Desarrolla la comunicación a través de diferentes tipos de estimulación  
+habi47;compe6;304;Responde ante los distintos estímulos del entorno próximo
+habi48;compe6;306;Propicia el juego vocálico. Mejora la imitación vocálica y gestual
+habi49;compe6;308;Manifiesta su estado de ánimo mediante sus vocalizaciones 
+habi50;compe6;310;Desarrolla la intención comunicativa
+habi51;compe6;312;Desarrolla la intención de acción
+habi52;compe6;314;Percibe contingencias
+habi53;compe6;316;Utiliza un sistema alternativo y/o aumentativo de comunicación acorde con sus características personales
+habi54;compe8;336;Enhebra bolas en un cordel 
+habi55;compe8;338;Da vueltas al pomo de la puerta 
+habi56;compe8;340;Abre y cierra la canilla (grifo)
+habi57;compe8;342;Corta con tijeras 
+habi58;compe8;344;Construye una torre de cubos 
+habi59;compe8;346;Pasa las hojas de un libro de una en una
+habi60;compe8;348;Abre y cierra pestillos
+habi61;compe8;350;Dobla un papel por la mitad 
+habi62;compe8;352;Arma y desarma un juguete de piezas a presión
+habi63;compe8;354;Hace bolas de plastilina 
+habi64;compe8;356;Camina sobre una línea en el suelo 
+habi65;compe8;358;Salta escalones
+habi66;compe8;360;Sube y baja escaleras sin alternar los pies 
+habi67;compe8;362;Camina hacia atrás mirando 
+habi68;compe8;364;Da algún paso de puntillas
+habi69;compe8;366;Camina con una sola pierna 
+habi70;compe8;368;Juega con una pelota 
+habi71;compe8;370;Transporta una silla
+habi72;compe8;372;Se mantiene en equilibrio sobre un pie 
+habi73;compe8;374;Señala partes de su cuerpo 
+habi74;compe8;376;Nombra objetos y los identifica en dibujos
+habi75;compe8;378;Distingue ahora - hoy 
+habi76;compe8;380;Separa objetos del mismo color 
+habi77;compe8;382;Dice su edad levantando los dedos
+habi78;compe8;386;Dibuja figuras humanas (DFH)
+habi79;compe8;388;Dice para qué sirve
+habi80;compe9;408;Desenrosca objetos
+habi81;compe9;410;Opone el pulgar al resto de los dedos y los toca uno a uno 
+habi82;compe9;412;Se abotona y desabotona el vestido
+habi83;compe9;414;Levanta una bola con el índice y el pulgar 
+habi84;compe9;416;Imita secuencias de movimientos  
+habi85;compe9;418;Realiza juegos de construcción simples
+habi86;compe9;420;Hace figuras sencillas de plastilina  
+habi87;compe9;422;Camina hacia atrás sin girar la cabeza 
+habi88;compe9;424;Camina de puntillas
+habi89;compe9;426;Camina y salta con una sola pierna
+habi90;compe9;428;Sube y baja escaleras alternando los pies 
+habi91;compe9;430;Transporta uno o más objetos manteniendo el equilibrio
+habi92;compe9;432;Nombra y reconoce colores 
+habi93;compe9;434;Sabe su sexo 
+habi94;compe9;436;Recuerda objetos familiares
+habi95;compe9;438;Empareja objetos 
+habi96;compe9;440;Utiliza las llaves 
+habi97;compe9;441;Se viste y se desviste
+habi98;compe10;460;Abre un candado con llave 
+habi99;compe10;462;Enrosca objetos 
+habi100;compe10;464;Recorta y pega formas sencillas. Recorta curvas
+habi101;compe10;466;Hace nudos en un tapiz 
+habi102;compe10;468;Toma correctamente instrumentos gráficos 
+habi103;compe10;470;Imita movimientos de brazos, manos y dedos
+habi104;compe10;472;Hace una pelota arrugando un papel 
+habi105;compe10;473;Almacena temporalmente la información para completar una tarea y cerciorarse de que la alcanza 
+habi106;compe10;474;Arma rompecabezas
+habi107;compe10;475;Desarrolla su visión espacial 
+habi108;compe10;476;Construye formas uniendo piezas
+habi109;compe10;477;Calcula de forma aproximada el paso del tiempo y la duración de un suceso o actividad
+habi110;compe10;478;Dibuja figuras simples
+habi111;compe10;479;Realiza cambios en lo planeado, adaptándolo a las circunstancias del entorno 
+habi112;compe10;480;Cambia la dirección al correr
+habi113;compe10;482;Camina de punta y de talón
+habi114;compe10;484;Transporta un recipiente con agua sin que se le derrame 
+habi115;compe10;485;Colorea un dibujo
+habi116;compe10;486;Copia un árbol, un niño y una casa
+habi117;compe10;488;Conoce los días de la semana
+habi118;compe10;490;Sabe su dirección
+habi119;compe10;492;Compara objetos/dibujos reconociendo semejanzas y diferencias 
+habi120;compe10;493;Se ata los cordones de los zapatos
+habi121;compe10;494;Ignora los impulsos o la información irrelevante cuando está realizando una tarea (inhibición)
+habi122;compe10;495;Elige entre varias alternativas, sopesando los resultados y sus consecuencias 
+habi123;compe10;497;Resuelve problemas de diversa índole de manera consciente estableciendo relaciones causales entre ellos 
+habi124;compe10;498;Se desplaza de manera autónoma
+habi125;compe10;500;Realiza tareas de manera simultánea, intercalándolas y sabiendo en qué punto está cada una 
+habi126;compe10;501;Describe la situación relativa de objetos en el espacio: arriba-abajo, izquierda-derecha, delante-detrás, cerca-lejos
+habi127;compe11;502;Mejora la memoria auditiva 
+habi128;compe11;504;Mejora la memoria visual 
+habi129;compe11;506;Mejora la memoria quinestésica
+habi130;compe11;508;Mejora la memoria lógica/comprensiva  
+habi131;compe11;510;Mejora la memoria a corto plazo  
+habi132;compe11;512;Mejora la memoria a largo plazo
+habi133;compe12;532;Se seca las manos
+habi134;compe12;534;Se lava las manos 
+habi135;compe12;536;Se lava la cara
+habi136;compe12;538;Se lava las piernas y los brazos al bañarse o ducharse
+habi137;compe12;540;Sabe cuando las manos están sucias
+habi138;compe12;542;Utiliza el pañuelo para sonarse y limpiarse
+habi139;compe12;544;Mantiene limpios los oídos
+habi140;compe12;546;Se seca todo el cuerpo 
+habi141;compe12;548;Se baña o ducha solo
+habi142;compe12;550;Sabe regular la temperatura del agua para el baño 
+habi143;compe12;552;Se cepilla los dientes
+habi144;compe12;554;Se baña o ducha por iniciativa propia
+habi145;compe12;556;Utiliza los elementos necesarios para eliminar olores corporales 
+habi146;compe12;558;Utiliza el cepillo de las uñas
+habi147;compe12;560;Deja el baño recogido
+habi148;compe12;562;Se peina
+habi149;compe12;564;Se seca el pelo 
+habi150;compe12;566;Se lava el pelo
+habi151;compe12;568;Se corta y lima las uñas 
+habi152;compe12;570;Cuida su aspecto y su apariencia exterior 
+habi153;compe12;572;Se afeita
+habi154;compe12;574;Se depila 
+habi155;compe12;576;Utiliza los broches del cabello  
+habi156;compe12;578;Utiliza el papel higiénico después de ir al baño
+habi157;compe12;596;Se sienta correctamente
+habi158;compe12;598;Se dirige al adulto cuando está enfermo 
+habi159;compe12;600;Toma el medicamento correspondiente y lo reconoce entre varios
+habi160;compe12;602;Muestra al cuidador la parte del cuerpo que le duele 
+habi161;compe12;604;Dice por qué se toma un medicamento determinado 
+habi162;compe12;606;Lleva las prótesis correctoras prescritas
+habi163;compe12;608;Describe sus síntomas cuando se siente enfermo 
+habi164;compe12;610;Responde a preguntas sobre su propia salud 
+habi165;compe12;612;Se pone un supositorio
+habi166;compe12;614;Toma los medicamentos recetados según la dosis prescrita 
+habi167;compe12;616;Cuida las prótesis
+habi168;compe12;618;Se cambia un parche o apósito
+habi169;compe12;620;Sigue las indicaciones en caso de accidente o enfermedad 
+habi170;compe12;622;Sabe utilizar el termómetro
+habi171;compe12;624;Sigue las pautas adecuadas en caso de golpe en la cabeza
+habi172;compe12;626;Sigue las pautas adecuadas en caso de hemorragia nasal
+habi173;compe12;628;Toma el sol con las precauciones necesarias 
+habi174;compe12;630;Sigue las pautas adecuadas en caso de picadura de abeja o de avispa
+habi175;compe12;632;Evita fuentes de contagio
+habi176;compe12;634;Sabe utilizar los servicios sanitarios 
+habi177;compe12;636;Conoce los beneficios de elegir un estilo de vida saludable
+habi178;compe12;638;Comprende qué es un alimento y conoce la función que cumplen en la dieta
+habi179;compe12;640;Conoce y aplica hábitos de alimentación saludables 
+habi180;compe12;642;Observa la dieta prescrita en caso de diarrea
+habi181;compe12;643;Evita tomar alimentos fuera de horas
+habi182;compe12;645;Conoce y aplica hábitos de vida saludables para la mente
+habi183;compe12;648;Reconoce los factores que favorecen la salud y los factores que la perjudican y valora la importancia de elegir convenientemente
+habi184;compe12;650;Adopta una actitud crítica ante las modas y la imagen corporal de los modelos publicitarios
+habi185;compe14;670;Conoce las partes del cuerpo y sus funciones
+habi186;compe14;672;Conoce las diferencias entre el hombre y la mujer 
+habi187;compe14;674;Reconoce los cambios que se producen en la pubertad
+habi188;compe14;676;Cuida la higiene de los órganos sexuales
+habi189;compe14;678;Conoce y aplica hábitos sexualmente saludables 
+habi190;compe14;682;Participa en conversaciones sobre la sexualidad
+habi191;compe14;684;Se comporta con naturalidad ante manifestaciones afectuosas
+habi192;compe14;686;Respeta el cuerpo de los compañeros
+habi193;compe14;688;Conoce y aplica métodos de prevención de enfermedades de transmisión sexual (ETS)
+habi194;comp15;706;Responde a su nombre
+habi195;comp15;708;Saluda a otros niños y adultos conocidos cuando se lo recordamos 
+habi196;comp15;710;Lleva un objeto si le damos instrucciones
+habi197;comp15;712;Presta atención a lo largo de 3 o 4 minutos (cuentos, TV, etc.) 
+habi198;comp15;714;Dice por favor y gracias cuando se le recuerda 
+habi199;comp15;716;Trata de ayudar en tareas domésticas
+habi200;comp15;718;Juega a disfrazarse
+habi201;comp15;719;Juega con otros compañeros en paralelo pero sin colaborar 
+habi202;comp15;723;Comparte sus juguetes
+habi203;compe16;742;Deja objetos a otros compañeros
+habi204;compe16;744;Sigue reglas de la clase
+habi205;compe16;746;Pide por favor y da las gracias sin que se le recuerde
+habi206;compe16;747;Presta atención estando en grupo, sentado en un lugar (más de 5 minutos) 
+habi207;compe16;748;Contesta al teléfono y habla con personas conocidas 
+habi208;compe16;752;Juega cerca de otros compañeros y habla con ellos
+habi209;compe16;754;Sigue las reglas de un juego en grupo dirigido por alguien 
+habi210;compe16;756;Se relaciona con sus compañeros y aguarda su turno 
+habi211;compe16;758;Se separa fácilmente de sus padres
+habi212;compe16;760;Solicita permiso para utilizar los objetos
+habi213;compe16;762;Pide ayuda cuando tiene alguna dificultad
+habi214;compe16;764;Realiza un trabajo sin distraerse (más de 10 minutos)
+habi215;compe16;765;Contribuye en una conversación entre personas mayores 
+habi216;compe16;766;Se comporta en público de una forma socialmente aceptable 
+habi217;compe16;770;Se entretiene con juegos de construcción y manipulación de piezas
+habi218;compe17;784;Solicita información
+habi219;compe17;786;Mira a la cara cuando le han llamado la atención 
+habi220;compe17;788;Responde a una sonrisa con una sonrisa
+habi221;compe17;790;Da muestras de afecto espontáneas a quienes conviven con él 
+habi222;compe17;792;Identifica por su nombre a los que conviven con él 
+habi223;compe17;794;Responde a un compañero o señala para localizarlo
+habi224;compe17;796;Se relaciona con otras personas por iniciativa propia 
+habi225;compe17;798;Acude a un lugar cuando lo llaman  
+habi226;compe17;800;Pide objetos ante una necesidad
+habi227;compe17;802;Sigue las indicaciones de un encargo
+habi228;compe17;804;Acepta las consecuencias de haberse equivocado 
+habi229;compe17;806;Expone un deseo o una necesidad
+habi230;compe17;808;Da información sobre sí mismo
+habi231;compe17;810;Muestra interés por las personas con las que tiene vínculos 
+habi232;compe17;812;Razona respuestas sobre comportamientos elegidos
+habi233;compe17;814;Da cuenta de acciones realizadas
+habi234;compe17;816;Se dirige a las personas con un tono de voz apropiado 
+habi235;compe17;818;Llega puntualmente
+habi236;compe17;820;Saluda y se despide 
+habi237;compe17;822;Pide permiso 
+habi238;compe17;824;Pide disculpas
+habi239;compe17;826;Expone una queja 
+habi240;compe17;828;Felicita cumpleaños 
+habi241;compe17;830;Invita a compañeros
+habi242;compe17;832;Rechaza ayuda 
+habi243;compe17;834;Presenta a otra persona 
+habi244;compe18;860;Evita una pelea
+habi245;compe18;864;Se defiende de una agresión física o verbal
+habi246;compe18;866;Trabaja/juega con los compañeros de forma cooperativa
+habi247;compe18;868;Ofrece apoyo
+habi248;compe18;870;Trabaja en actividades de grupo competitivas 
+habi249;compe18;872;Se relaciona con compañeros en situaciones distintas
+habi250;compe18;874;Sigue indicaciones colectivas 
+habi251;compe18;876;Inicia actividades en grupo 
+habi252;compe18;878;Acepta nuevos compañeros en el grupo
+habi253;compe18;880;Reconoce las acciones positivas de los compañeros 
+habi254;compe18;882;Acepta la colaboración de los compañeros 
+habi255;compe18;884;Se comporta de acuerdo con el papel que le corresponde
+habi256;compe18;886;Se comporta deportivamente
+habi257;compe18;888;Expresa su opinión aunque sea diferente de la de los demás 
+habi258;compe18;890;Acepta las ideas presentadas por otros 
+habi259;compe19;910;Evita acciones y expresiones molestas 
+habi260;compe19;912;Acepta y respeta a las personas  
+habi261;compe19;914;Respeta a los animales
+habi262;compe19;916;Respeta el medio ambiente (cuida las plantas, ahorra energía, recicla papel…)
+habi263;compe19;918;Respeta las cosas (ropa, materiales, mobiliario, etc.) 
+habi264;compe20;934;Toma conciencia de las propias emociones y aprende a controlarlas  
+habi265;compe20;936;Se muestra abierto a expresar sentimientos, emociones y vivencias  
+habi266;compe20;938;Acepta críticas
+habi267;compe20;940;Identifica gestos
+habi268;compe20;942;Identifica expresiones emocionales básicas faciales (feliz, triste, enojado, temeroso) 
+habi269;compe20;944;Identifica expresiones emocionales básicas en fotografías
+habi270;compe20;946;Identifica expresiones emocionales básicas en dibujos 
+habi271;compe20;948;Identifica expresiones emocionales faciales complejas (sorpresa, cansancio, asco, aburrimiento, desilusión, cariño, etc.) 
+habi272;compe20;950;Identifica expresiones emocionales complejas en fotografías
+habi273;compe20;952;Identifica expresiones emocionales complejas en dibujos 
+habi274;compe20;954;Identifica emociones basadas en situaciones 
+habi275;compe20;956;Identifica emociones basadas en el deseo
+habi276;compe20;958;Identifica emociones basadas en las creencias 
+habi277;compe20;960;Interpreta intenciones a partir de gestos, expresiones faciales o el contexto 
+habi278;compe20;962;Interpreta verbos del tipo pensar, fingir, etc.
+habi279;compe20;964;Interpreta las razones por sus consecuencias 
+habi280;compe20;966;Interpreta el problema a partir de símbolos 
+habi281;compe20;968;Interpreta el problema a partir del contexto
+habi282;compe20;970;Identifica palabras o gestos de un interlocutor que indican la necesidad de modificar el propio comportamiento
+habi283;compe21;990;Identifica y evita situaciones de riesgo de acoso escolar 
+habi284;compe21;991;Contribuye a la prevención del acoso escolar 
+habi285;compe21;992;Muestra una actitud de aceptación, respeto y valoración de las diferencias individuales (edad, sexo, características físicas, personalidad, etc.)
+habi286;compe21;994;Apoya a las víctimas y facilita la convivencia 
+habi287;compe21;996;Desarrolla alternativas a la violencia  
+habi288;compe21;997;Utiliza las redes de forma segura
+habi289;compe21;998;Evita la adicción a las nuevas tecnologías
+habi290;compe22;1016;Come alimentos tomándolos con los dedos
+habi291;compe22;1018;Utiliza la cuchara con alimentos sólidos y líquidos 
+habi292;compe22;1020;Bebe con vaso o taza
+habi293;compe22;1022;No se mueve del asiento durante la comida 
+habi294;compe22;1024;Pela fruta 
+habi295;compe22;1026;Desenvuelve el alimento
+habi296;compe22;1028;Mastica alimentos con la boca cerrada
+habi297;compe22;1030;Elige el cubierto correspondiente según el tipo de comida 
+habi298;compe22;1032;Dobla la servilleta
+habi299;compe22;1034;Toma el vaso con una sola mano
+habi300;compe22;1036;Se seca la boca con la servilleta o el babero 
+habi301;compe22;1038;Traga los alimentos antes de beber
+habi302;compe22;1040;Corta los alimentos blandos con el tenedor
+habi303;compe22;1042;Sabe añadir azúcar a los alimentos cuando lo desea 
+habi304;compe22;1044;Vierte el agua o líquidos de una jarra o botella
+habi305;compe22;1046;Se pone la servilleta
+habi306;compe22;1048;Introduce en la boca la comida que puede masticar de una vez 
+habi307;compe22;1050;Traga la comida que tiene en la boca antes de hablar
+habi308;compe22;1052;Parte el pan en porciones pequeñas  
+habi309;compe22;1054;Sabe utilizar el cuchillo 
+habi310;compe22;1056;Corta en rebanadas el pan
+habi311;compe22;1058;Deja los restos de su comida dentro del plato 
+habi312;compe22;1060;Comienza a comer cuando todo el mundo ha sido servido 
+habi313;compe22;1062;Mantiene la mesa limpia
+habi314;compe22;1064;Deja la silla en su lugar 
+habi315;compe22;1066;Corta los alimentos que lo requieren con cuchillo y tenedor 
+habi316;compe22;1068;Condimenta las comidas
+habi317;compe22;1070;Utiliza el rompenueces 
+habi318;compe23;1090;Enciende y apaga interruptores  
+habi319;compe23;1092;Tira la basura en los contenedores previstos 
+habi320;compe23;1094;Colabora a la hora de poner y quitar la mesa
+habi321;compe23;1096;Lleva la ropa sucia al lugar asignado  
+habi322;compe23;1098;Pone y quita las bolsas de la basura  
+habi323;compe23;1100;Avisa cuando hay prendas de ropa para coser
+habi324;compe23;1102;Termina un trabajo en el tiempo preestablecido 
+habi325;compe23;1104;Utiliza correctamente los botones de control de electrodomésticos  
+habi326;compe23;1106;Limpia los zapatos
+habi327;compe23;1108;Pone y/o quita la mesa 
+habi328;compe23;1110;Lava los platos 
+habi329;compe23;1112;Tiende la ropa
+habi330;compe23;1114;Prepara verduras para la comida  
+habi331;compe23;1116;Prepara una comida sencilla 
+habi332;compe23;1118;Cose un botón
+habi333;compe23;1120;Limpia los líquidos derramados y recoge las cosas rotas 
+habi334;compe23;1122;Clasifica los alimentos según la conservación que precisen  
+habi335;compe23;1124;Barre o pasa la aspiradora
+habi336;compe23;1126;Hace la cama 
+habi337;compe23;1128;Usa adecuadamente la mochila o bolso, seleccionando el material del día 
+habi338;compe23;1130;Sigue un programa de limpieza general de la casa
+habi339;compe23;1132;Limpia y ordena su habitación  
+habi340;compe23;1134;Clava un clavo 
+habi341;compe23;1136;Cambia las pilas de un aparato eléctrico
+habi342;compe23;1138;Cambia la bombona de gas 
+habi343;compe23;1140;Cambia una bombilla eléctrica que no funciona 
+habi344;compe23;1142;Arregla un enchufe
+habi345;compe23;1144;Cambia un fusible 
+habi346;compe23;1146;Utiliza el timbre y lo atiende cuando suena 
+habi347;compe23;1150;Observa las normas de seguridad en el uso de aparatos domésticos
+habi348;compe24;1168;Descuelga y cuelga la ropa en perchas 
+habi349;compe24;1170;Guarda el material después de utilizarlo y lo mantiene en buen estado 
+habi350;compe24;1172;Pide el material de equipamiento que necesita
+habi351;compe24;1174;Se responsabiliza de los objetos que le confían 
+habi352;compe24;1176;Cierra la puerta con cuidado al entrar o salir del aula 
+habi353;compe24;1178;Se desplaza por la escuela con orden, respetando el trabajo de las otras clases
+habi354;compe24;1180;Conoce las dependencias de la escuela y las utiliza de forma adecuada 
+habi355;compe24;1182;Juega en los lugares correspondientes, sin molestar los juegos de los demás
+habi356;compe24;1184;Procura no malgastar el material (papel, lápices, pintura, cola, etc.)
+habi357;compe24;1186;Se relaciona con los compañeros en las salidas
+habi358;compe25;1206;Identifica su casa o su escuela  
+habi359;compe25;1208;Se prepara para bajar de los transportes públicos 
+habi360;compe25;1210;Observa las normas de seguridad en los transportes públicos
+habi361;compe25;1212;Evita distraer al conductor en los transportes públicos 
+habi362;compe25;1214;Identifica situaciones de peligro en los transportes públicos 
+habi363;compe25;1216;Evita los obstáculos del camino
+habi364;compe25;1218;Identifica el lugar de parada de los transportes públicos 
+habi365;compe25;1220;Va a casa de los vecinos 
+habi366;compe25;1222;Obedece las indicaciones de los agentes de tráfico
+habi367;compe25;1224;Sigue las normas de circulación y conoce las consecuencias derivadas de su incumplimiento 
+habi368;compe25;1226;Observa todas las señales de tráfico  
+habi369;compe25;1228;Utiliza el autobús con los transbordos necesarios
+habi370;compe25;1230;Utiliza el taxi correctamente 
+habi371;compe25;1232;Utiliza el barco correctamente  
+habi372;compe25;1234;Actúa con civismo en las aglomeraciones de los transportes públicos
+habi373;compe25;1236;Respeta los equipamientos públicos 
+habi374;compe26;1256;Utiliza las máquinas de venta automática 
+habi375;compe26;1258;Acude a establecimientos de hostelería 
+habi376;compe26;1260;Acude al servicio comunitario apropiado cuando necesita ayuda
+habi377;compe26;1262;Lee periódicos y revistas para obtener información 
+habi378;compe26;1264;Consulta los horarios de servicios de la ciudad 
+habi379;compe26;1266;Utiliza una guía o el plano de la ciudad
+habi380;compe26;1268;Utiliza la programación de TV 
+habi381;compe27;1288;Compra y usa correctamente el dinero 
+habi382;compe27;1290;Diferencia entre distintos tipos de gasto y adapta su presupuesto a cada uno de ellos 
+habi383;compe27;1292;Investiga sobre distintas estrategias de compra, compara precios y recopila información
+habi384;compe27;1294;Valora con espíritu crítico la función de la publicidad y analiza ejemplos concretos 
+habi385;compe27;1296;Conoce las funciones de los bancos  
+habi386;compe27;1298;Colabora en las compras del hogar (alimentación, productos de limpieza, ropa...)
+habi387;compe28;1314;Interrumpe una acción en caso de peligro 
+habi388;compe28;1316;Se mantiene a distancia de objetos que irradian calor 
+habi389;compe28;1318;Evita el contacto con materiales por los que pasa corriente eléctrica
+habi390;compe28;1320;Tiene cuidado con los desniveles y escaleras peligrosas 
+habi391;compe28;1322;Evita pillarse los dedos con cajones y puertas 
+habi392;compe28;1324;Manipula objetos de corte con precaución
+habi393;compe28;1326;Pide ayuda en caso de peligro  
+habi394;compe28;1328;Sube o baja por los lugares adecuados 
+habi395;compe28;1330;Rodea los lugares con vallas o andamios
+habi396;compe28;1332;Identifica objetos peligrosos 
+habi397;compe28;1334;Evita juegos o manipulaciones con envases potencialmente peligrosos 
+habi398;compe28;1336;Manipula objetos calientes con precaución
+habi399;compe28;1338;Se mantiene a distancia de aparatos mecánicos peligrosos 
+habi400;compe28;1340;Se baña en lugares habilitados para hacerlo 
+habi401;compe28;1342;Enciende fósforos con las precauciones necesarias
+habi402;compe28;1344;Mantiene la distancia ante animales extraños 
+habi403;compe28;1346;Evita el uso de objetos peligrosos en los juegos 
+habi404;compe28;1348;Identifica las señales de peligro
+habi405;compe28;1350;Evita la proximidad de objetos con la señal de inflamable 
+habi406;compe28;1352;Cierra la canilla (grifo) en caso de pérdida de agua 
+habi407;compe28;1354;Avisa en caso de olor a gas
+habi408;compe28;1356;Actúa en consecuencia ante señales acústicas de peligro 
+habi409;compe28;1358;Observa normas de seguridad en el uso de escaleras mecánicas 
+habi410;compe28;1360;Sigue las indicaciones ante un peligro eventual en la playa
+habi411;compe28;1362;Sigue las normas en situación de emergencia 
+habi412;compe28;1364;Es prudente al entablar relación con personas desconocidas
+habi413;compe29;1384;Está atento a las explicaciones, a las instrucciones y a las tareas que le dan 
+habi414;compe29;1386;Trabaja en el lugar asignado y utiliza cada material para su función específica 
+habi415;compe29;1388;Trabaja sin molestar a los compañeros
+habi416;compe29;1390;Planifica su tiempo y lo reparte entre trabajo, cuidado personal y ocio 
+habi417;compe29;1392;Lee el texto a una distancia apropiada
+habi418;compe29;1394;Termina las tareas empezadas y las presenta limpias y ordenadas
+habi419;compe29;1396;Coloca en su lugar los materiales utilizados 
+habi420;compe29;1398;Limpia los utensilios después de un trabajo 
+habi421;compe29;1400;Recoge y tira a la papelera los restos de material
+habi422;compe29;1402;Empieza a regular su ritmo de trabajo (tiempo dedicado = tiempo previsto)
+habi423;compe29;1404;Mantiene una postura adecuada durante el trabajo o actividad  
+habi424;compe29;1406;Realiza las actividades previstas para casa
+habi425;compe30;1426;Participa en juegos sensoriomotores
+habi426;compe30;1428;Participa en juegos que implican manipulación
+habi427;compe30;1430;Participa en juegos simbólicos: sustitución de objetos, atribución de propiedades, imitación, etc.
+habi428;compe30;1432;Participa en juegos de mesa siguiendo las normas 
+habi429;compe30;1434;Participa en juegos de acción propios de la edad 
+habi430;compe30;1436;Participa en juegos de comunicación
+habi431;compe30;1438;Participa en juegos con reglas siguiendo las normas 
+habi432;compe30;1440;Organiza juegos de mesa con los compañeros 
+habi433;compe30;1442;Juega con videojuegos
+habi434;compe30;1444;Participa en deportes de balón o pelota 
+habi435;compe30;1446;Participa en deportes atléticos y gimnásticos 
+habi436;compe30;1448;Participa en deportes de combate
+habi437;compe30;1450;Participa en deportes mecánicos  
+habi438;compe30;1452;Juega al ajedrez 
+habi439;compe30;1454;Participa en deportes en la naturaleza
+habi440;compe30;1456;Juega en los lugares correspondientes, sin molestar los juegos de los demás
+habi441;compe30;1458;Utiliza algún dispositivo médico de medición
+habi442;compe31;1466;Se entretiene con objetos previamente elegidos 
+habi443;compe31;1468;Se dedica a sus aficiones
+habi444;compe31;1470;Elige música para escucharla
+habi445;compe31;1472;Participa en actividades al aire libre: excursiones, acampadas, etc.
+habi446;compe31;1474;Participa o asiste a actividades de la comunidad: exposiciones, teatro, cine, museos, fiestas, conciertos, etc.  
+habi447;compe31;1476;Participa en actividades para mejorar su aptitud física
+habi448;compe31;1478;Desarrolla intereses personales: coleccionismo, pintura, lectura, música, televisión, etc. 
+habi449;compe31;1480;Prepara las fiestas del año
+habi450;compe31;1482;Cuida sus animales y/o plantas
+habi451;compe32;2004;"Dice sonidos; inicia balbuceo; sonidos guturales "
+habi452;compe32;2006;Vocaliza vocal-consonante (aaa- mmm)
+habi453;compe32;2008;Vocaliza consonantes y vocales 2010 Dice largas series de segmentos silábicos
+habi454;compe32;2012;Forma diversas sílabas
+habi455;compe32;2014;Reproduce con balbuceo la melodía de la conversación adulta
+habi456;compe32;2016;Cambia la entonación o volumen para comunicar la intensidad de sus deseos
+habi457;compe32;2018;Dice 2 palabras. Dice 5-8 palabras. Dice 10-20 palabras
+habi458;compe32;2020;Dice onomatopeyas
+habi459;compe32;2022;Repite o imita palabras aisladas 2024 Estructura silábica V-CV (a-ba), CV1- CV1 (papá), CV1-CV2 (pupa), C1V1-C2V2 (paso), CVC (pan)
+habi460;compe32;2026;Nombra a miembros de la familia 2028 Dice algún alimento por su nombre
+habi461;compe32;2030;Nombra objetos y animales
+habi462;compe32;2032;Responde a preguntas del tipo “¿qué es esto?”
+habi463;compe32;2034;Articula sonidos (p,m,t,f,k,n,b,l)
+habi464;compe32;2036;Articula sonidos (j-y-ll, r-rr-x. Fl-cl-gl-br- cr-gr-pr-tr-d)
+habi465;compe32;2038;Nombra prendas de vestir
+habi466;compe33;2050;Dice que si/no, “no hay más”, adiós,aquí, gracias, por favor…
+habi467;compe33;2052;Dice frases de 2, 3 ó 4 palabras
+habi468;compe33;2054;Imita palabras en frases cortas
+habi469;compe33;2056;Vocabulario 250 a 300 palabras
+habi470;compe33;2058;Utiliza artículos
+habi471;compe33;2060;Usa expresiones cotidianas muy cortas
+habi472;compe33;2062;Hace preguntas con qué, quién,dónde
+habi473;compe33;2064;"Emplea ""es"", ""está"" y la forma posesiva “de”"
+habi474;compe33;2066;Usa preposiciones (a, para)
+habi475;compe33;2068;Dice yo, tu, mi
+habi476;compe33;2070;Utiliza verbos diferentes en su lenguaje
+habi477;compe33;2072;Utiliza género y número
+habi478;compe33;2074;Dice su nombre y apellidos
+habi479;compe33;2076;Responde preguntas (cuándo, para qué, dónde)
+habi480;compe33;2078;Responde afirmativamente “si” en una frase
+habi481;compe33;2080;Utiliza pronombres personales
+habi482;compe33;2082;Combina verbos o sustantivos con allí, aquí
+habi483;compe33;2084;"Emplea oraciones compuestas coordinadas con “y”. Disyuntivas con “o”. Causales con ""por"" y ""porque"""
+habi484;compe33;2086;Hace preguntas elevando el tono final
+habi485;compe34;2100; Responde a la indicación “dame”
+habi486;compe34;2102; Deja de hacer algo cuando se le dice “no”
+habi487;compe34;2104; Sigue instrucciones sencillas
+habi488;compe34;2106; Cumple 2 tareas relacionadas(ejemplo, toma el vaso y ponlo en la mesa)
+habi489;compe34;2108; Cumple 2 ó más tareas no relacionadas
+habi490;compe35;2122;Comprende palabras
+habi491;compe35;2124;Comprende un cuento
+habi492;compe35;2126; Comprende indicaciones verbales
+habi493;compe35;2128; Comprende la utilidad de las cosas
+habi494;compe35;2130; Comprende frases absurdas
+habi495;compe35;2132; Comprende descripciones semánticas
+habi496;compe35;2134;Comprende el doble sentido dellenguaje
+habi497;compe35;2136;Resume y titula un texto narrativo
+habi498;compe35;2138; Realiza una inferencia o deducción a partir de un texto corto
+habi499;compe35;2140; Capta la idea fundamental de un texto. Reconocimiento de las ideas principales y secundarias
+habi500;compe35;2142; Comprende textos orales y escritos
+habi501;compe35;2144; Usa la técnica del subrayado
+habi502;compe36;2160; Gira la cabeza a un lado y a otro cuando siente dos sonidos, uno en cada lado
+habi503;compe36;2162; Emplea gestos para designar personas o cosas
+habi504;compe36;2164; Solicita cosas orientando la atención del adulto (comunicación intencional)
+habi505;compe36;2166; Utiliza gestos protodeclarativos protoimperativos
+habi506;compe36;2168; Usa gestos para indicar (más, adiós,etc.)
+habi507;compe36;2170; Levanta los brazos para que lo agarren
+habi508;compe36;2172; Señala objetos familiares cuando se le nombran
+habi509;compe36;2174; Señala dibujos de un libro cuando se le nombran
+habi510;compe36;2176; Señala partes de su cuerpo cuando se le nombran
+habi511;compe36;2178; Induce la acción de dibujos (dormir,comer, etc.)
+habi512;compe36;2180;Describe/define objetos, animales y personajes
+habi513;compe36;2182;Forma frases a partir de palabras leídas
+habi514;compe36;2184;Se expresa oralmente con un vocabulario adecuado, pronunciación y orden
+habi515;compe36;2186;Explica una historia a partir de viñetas
+habi516;compe36;2188; Describe un hecho fantástico o real de forma cronológica
+habi517;compe36;2190; Memoriza y dramatiza textos orales
+habi518;compe36;2192; Expresa opiniones razonadas
+habi519;compe36;2194;Explica las reglas de un juego
+habi520;compe36;2196; Representa situaciones cotidianas o textos utilizando recursos verbales y no verbales
+habi521;compe36;2198; Expone un tema de forma ordenada con ayuda de las TIC y ajustándose a un guión
+habi522;compr37;2212;Continúa un cuento con una o más frases
+habi523;compr37;2214;Responde a preguntas familiares
+habi524;compr37;2216;Responde a ¿qué es?, ¿cómo es?
+habi525;compr37;2218;Acaba frases de acuerdo a su nivel
+habi526;compr37;2220; Utiliza el teléfono
+habi527;compr37;2222;Participa en situaciones de comunicación con los compañeros, respeta los turnos y sigue la temática
+habi528;compr37;2224;Formula preguntas pertinentes para obtener información
+habi529;compr37;2226; Organiza y participa en una mesa redonda defendiendo un punto de vista
+habi530;compe38;;
+habi531;compe38;;
+habi532;compe39;2240;Reconoce su nombre, familia cercana y amigos
+habi533;compe39;2242;Reconoce diferentes palabras funcionales de una a tres sílabas
+habi534;compe39;2244;Asocia un nombre escrito con una fotografía
+habi535;compe39;2246;Comprende imágenes presentadas
+habi536;compe39;2248;Asocia carteles con palabras que ya conoce con otras iguales
+habi537;compe39;2250;Reconoce verbos de uso funcional en tercera persona del singular
+habi538;compe39;2252; Reconoce adjetivos y conjunciones
+habi539;compe39;2254; Reconoce verbos de uso funcional en primera persona del singular y en otras formas verbales
+habi540;compe39;2256;Selecciona palabras que se nombran
+habi541;compe39;2257;Reconoce de forma global las palabras
+habi542;compe39;2260;Lee su diario personal
+habi543;compe39;2261;Lee Braille
+habi544;compe39;2262; Compone frases
+habi545;compe40;2276;Toma conciencia de que las palabras están formadas por sílabas.
+habi546;compe40;2278;Compone palabras que lee globalmente: con modelo y sin modelo
+habi547;compe40;2280;Reconoce y lee con soltura palabras formadas por cualquier sílaba comprendiendo su significado
+habi548;compe40;2282; Nombra las sílabas
+habi549;compe40;2284;Lee cualquier palabra formada por sílabas directas: consonante- vocal
+habi550;compe40;2286;Lee cualquier palabra formada por sílabas trabadas: consonante vocal consonante
+habi551;compe40;2288;Lee cualquier palabra formada por sílabas inversas: vocal, consonante
+habi552;compe40;2290;Lee cualquier palabra formada por sílabas con grupos consonánticos: consonante-consonante-vocal
+habi553;compe40;2292; Amplía el número de cuentos personales
+habi554;compe40;2294; Amplia el número de sustantivos, adjetivos y adverbios, que lee en forma global
+habi555;compe41;2308;Lee palabras formadas por cualquier sílaba con seguridad, fluidez, y captando el significado
+habi556;compe41;2310;Lee frases formadas por cualquier tipo de palabras comprendiendo el mensaje
+habi557;compe41;2312; Lee en voz alta haciendo las pausas adecuadas y con buena entonación
+habi558;compe41;2314;Responde a preguntas sobre la lectura de forma verbal o escrita.
+habi559;compe41;2316; Resume en forma oral el texto leído
+habi560;compe41;2318; Usa el diccionario
+habi561;compe41;2320; Explica el significado del vocabulario básico de los textos que lee
+habi562;compe41;2322;Es eficaz en la velocidad lectora de un texto
+habi563;compe41;2324;Juegos de lectura
+habi564;compe42;2336; Grafomotricidad: imita el círculo, la cruz, el cuadrado, la diagonal...
+habi565;compe42;2338;Grafomotricidad: realiza picados, bucles, recorre caminos… Usa habilidades perceptivo motoras (orientación, direccionalidad)
+habi566;compe42;2340; Grafomotricidad: continúa un dibujo, une puntos. Usa habilidades perceptivomotoras (distribución del texto en el espacio)
+habi567;compe42;2342;Nivel de escritura: garabato /diferenciada, garabato largo corto y diferencia dibujo grafía
+habi568;compe42;2344;Nivel de escritura presilábica y diferenciada
+habi569;compe42;2346;Conoce el alfabeto
+habi570;compe42;2348;Deletrea palabras
+habi571;compe42;2350;Nivel de escritura silábica
+habi572;compe43;2364;Copia correctamente todos los grafemas
+habi573;compe43;2366;Copia correctamente palabras
+habi574;compe43;2368;Copia correctamente frases
+habi575;compe43;2370;Copia correctamente textos
+habi576;compe44;2384; Escribe vocales al dictado
+habi577;compe44;2386;Realiza un dictado de vocales y sílabas directas
+habi578;compe44;2388;Escribe palabras con sílabas directas (al dictado)
+habi579;compe44;2390;Ejecuta un dictado fonético y silábico
+habi580;compe44;2392;Realiza un dictado de palabras y frases
+habi581;compe44;2394;Realiza un dictado de un texto
+habi582;compe45;2408;Escribe o acaba palabras y frases sencillas
+habi583;compe45;2410;Escribe frases de forma espontánea. Conoce y usa el código escrito para componer textos breves
+habi584;compe45;2412; Compone y crea textos libres o sugeridos (listas, cartas, cuentos, etc.)
+habi585;compe45;2414; Describe lugares, personas,acontecimientos…
+habi586;compe45;2416; Escribe diálogos
+habi587;compe45;2418; Confecciona una noticia. Participa en el periódico escolar
+habi588;compe45;2420;Resume y subraya textos
+habi589;compe45;2422; Produce textos en situación de aprendizaje. Apuntes esquemas
+habi590;compe45;2424; Elabora poemas
+habi591;compe45;2426;Elabora textos narrativos (introducción,nudo, desenlace, personajes, etc.)
+habi592;compe45;2428; Elabora textos dramáticos (personajes,escenografía, etc.).
+habi593;compe45;2430; Escribe con un procesador de textos utilizando su corrector ortográfico
+habi594;compe45;2431; Escribe en Braille
+habi595;compe46;2432;Usa adecuadamente las mayúsculas
+habi596;compe46;2434;Usa adecuadamente la M o la N delante de consonante (mp / mb)
+habi597;compe46;2436;Usa adecuadamente las variantes gráficas: B/V, H/Ø, G/J, C/Z, C/QU/K, H/J,LL/Y, U/W, X/J, X/S.
+habi598;compe46;2438;Usa adecuadamente la R y la RR
+habi599;compe46;2440;Aplica adecuadamente las normas ortográficas de acentuación
+habi600;compe46;2442;Aplica adecuadamente las normas ortográficas de puntuación
+habi601;compe46;2444;Utiliza apropiadamente la diéresis
+habi602;compe46;2446; Adquiere vocabulario y practica reglas ortográficas
+habi603;compe47;2458;Identifica los morfemas de palabras (lexemas, prefijos, sufijos…)
+habi604;compe47;2460;Utiliza distintos procedimientos de formación e incorporación de palabras (derivación, composición, siglas,acrónimos…)
+habi605;compe47;2462;Identifica palabras flexivas (variables) y no flexivas (invariables)
+habi606;compe47;2464; Reconoce y clasifica correctamente los sustantivos de una oración
+habi607;compe47;2465; Identifica los determinantes en una oración e indica el tipo al que pertenecen
+habi608;compe47;2466; Realiza correctamente la concordancia entre determinantes y sustantivos
+habi609;compe47;2468; Conoce los tipos de adjetivos y los utiliza con propiedad
+habi610;compe47;2470; Emplea correctamente los distintos tipos de pronombres
+habi611;compe47;2472; Conjuga y utiliza adecuadamente verbos reflexivos
+habi612;compe47;2474;Utiliza correctamente el presente, el pasado y el futuro
+habi613;compe47;2476;Conjuga y utiliza correctamente los modos verbales: imperativo, indicativo y subjuntivo
+habi614;compe47;2478;Conjuga correctamente verbos regulares e irregulares
+habi615;compe47;2480;Conjuga y utiliza correctamente los tiempos verbales simples y compuestos
+habi616;compe47;2482;Reconoce perífrasis verbales
+habi617;compe47;2484;Identifica las formas no personales del verbo (infinitivo, participio y gerundio)
+habi618;compe47;2486;Utiliza correctamente el género y el número
+habi619;compe47;2488;Identifica los adverbios y locuciones adverbiales en una oración y reconoce la función que realizan
+habi620;compe47;2490;Identifica las preposiciones de una oración
+habi621;compe47;2492; Identifica las conjunciones y locuciones conjuntivas de un texto y las incluye en su clase correspondiente
+habi622;compe47;2494;Identifica y clasifica las interjecciones de un texto
+habi623;compe47;2496;Analiza morfológicamente los componentes de una oración
+habi624;compe48;2510;Distingue el núcleo en el sujeto y en el predicado
+habi625;compe48;2512; Aplica correctamente la concordancia adjetivo / nombre/sujeto / predicado , determinantes
+habi626;compe48;2514;Ordena un conjunto de palabras para formar una oración completa
+habi627;compe48;2516;Acaba frases con el verbo pertinente
+habi628;compe48;2518; Inventa sujetos para un predicado y viceversa
+habi629;compe48;2520;Construye oraciones a partir de un verbo en presente, pasado y futuro
+habi630;compe48;2522; Separa las oraciones en un texto
+habi631;compe48;2524;Transforma oraciones activas en pasivas y viceversa
+habi632;compe48;2526; Escribe oraciones de distintas clases: impersonales, transitivas, reflexivas, coordinadas, subordinadas…
+habi633;compe48;2528; Dada una oración, la clasifica según su estructura, modo y naturaleza del predicado
+habi634;compe48;2530; Identifica y explica los distintos tipos sintagmas de una oración y su estructura
+habi635;compe48;2532; Analiza sintácticamente oraciones
+habi636;compe49;2546;Aplica los conceptos de polisemia, homonimia y paronimia en casos concretos
+habi637;compe49;2548;Usa con fluidez sinónimos y antónimos
+habi638;compe49;2550;Agrupa palabras por campos semánticos y campos léxicos
+habi639;compe49;2552;Ordena palabras alfabéticamente
+habi640;compe49;2554;Maneja el diccionario en papel y formato digital
+habi641;compe49;2556; Asocia abreviaturas con sus palabras correspondientes
+habi642;compe49;2558;Identifica el significado de las palabras en una oración (figurado, denotativo, connotativo…)
+habi643;compe50;2572;Clasifica los fonemas consonánticos de palabras
+habi644;compe50;2574;Indica si las sílabas de una palabra son átonas o tónicas
+habi645;compe50;2576;Clasifica palabras en agudas, graves y esdrújulas
+habi646;compe50;2578;Identifica los diptongos, triptongos e hiatos en palabras
+habi647;compe151;2592;Lee, tanto de forma guiada como autónoma, textos populares e infantiles
+habi648;compe151;2594;Lee, tanto de forma guiada como autónoma, textos literarios (relatos, mitos y leyendas, biografías, obras teatrales…)
+habi649;compe151;2596; Produce textos literarios a partir de modelos
+habi650;compe151;2598; Participa en actividades literarias del centro o externas al centro
+habi651;compe151;2600;Dada una obra literaria, reconoce su género y subgénero literario
+habi652;compe151;2602;Identifica estrofas según su número de versos, medida y rima
+habi653;compe151;2604;Conoce recursos estilísticos y semánticos del lenguaje literario
+habi654;compe151;2606;Analiza los recursos semánticos, morfológicos y sintácticos de un texto literario
+habi655;compe151;2608;Identifica los rasgos diferenciales de los distintos géneros periodísticos informativos y de opinión: noticias, reportajes, editoriales, artículos y columnas, cartas al director, comentarios y crítica
+habi656;compe151;2610;Lee y comenta un texto literario, identificando género y tema, resumiendo su contenido y analizando su estructura y lenguaje literario
+habi657;compe151;2612;Comprende y explica los elementos verbales y los elementos no verbales y la intención comunicativa de un texto publicitario procedente de los medios de comunicación
+habi658;compe151;2614;Expresa la relación que existe entre el contenido de la obra, la intención del autor y el contexto sociocultural y literario de la época, reconociendo la evolución de temas y formas literarias.
+habi659;compe151;2616;Conoce los principales movimientos literarios, autores y obras de su país
+habi660;compe151;2618;Conoce los principales autores y obras de habla no hispana
+habi661;compe51;Idioma001;Acostumbrar a los niños a la pronunciación de la lengua extranjera Idioma003 Utilización de palabras y frases sencillas
+habi662;compe51;Idioma005;Comprensión y producción de saludos
+habi663;compe51;Idioma007;Comprensión y realización de órdenes sencillas
+habi664;compe51;Idioma009;Realización de peticiones de forma educada
+habi665;compe51;Idioma011;Comprensión y producción de nombres de animales, objetos del aula, de la casa, ...
+habi666;compe51;Idioma013;Contar de 1 a 10
+habi667;compe51;Idioma015;Comprensión y emisión si/no en la lengua extranjera
+habi668;compe51;Idioma017;Pedir cosas por favor y dar las gracias
+habi669;compe51;Idioma019;Comprensión y producción de los nombres de los colores
+habi670;compe51;Idioma021;Comprensión y producción de nombres de medios de transporte
+habi671;compe51;Idioma031;Comprensión y representación de una historia sencilla
+habi672;compe51;Idioma033;Conocimiento de los nombres de una familia (madre, padre,...)
+habi673;compe51;Idioma035; Comprensión y producción de los nombres de algunos elmentos, partes del cuerpo, juguetes
+habi674;compe51;Idioma037;"Comprensión y producción de frases con ""contento - triste"" en la lengua extranjera"
+habi675;compe51;Idioma041;"Comprensión y producción de frases con ""en, sobre"" en la lengua extranjera"
+habi676;compe51;Idioma043;Comprensión y producción de vocabulario relacionado con la Navidad
+habi677;compe51;Idioma045;Comprensión y producción de vocabulario relacionado con la Pascua
+habi678;compe51; Idioma051; Participación en conversaciones y formulación de preguntas
+habi679;compe51;Idioma053;Captación del sentido global de textos orales
+habi680;compe51;Idioma055;Comprensión de instrucciones de las rutinas del aula
+habi681;compe51;Idioma057;Lectura y comprensión de palabras y frases sencillas
+habi682;compe51;Idioma061; Escritura de palabras del vocabulario básico (colores, cantidades, objetos…)
+habi683;compe51;Idioma063;Conocimiento de fórmulas de expresiones habituales
+habi684;compe51;Idioma065; Utilización de la tecnología como instrumento de aprendizaje
+habi685;compe51;Idioma067;Uso de intercambios comunicativos sencillos: saludar, despedirse, identificarse, presentarse, expresar sentimientos, gustos, responder a instrucciones y preguntas sencillas
+habi686;compe51;Idioma071;Conocimiento de diferentes textos (cuentos, canciones…)
+habi687;compe52;Idioma081; Necesidades y situaciones de comunicación más habituales en la lengua oral y escrita
+habi688;compe52;Idioma085;Vocabulario y estructuras lingüísticas necesarias para expresar, oralmente y por escrito, las necesidades básicas de comunicación
+habi689;compe52;Idioma087;Relación entre el significado del vocabulario trabajado, su pronunciación y su representación gráfica
+habi690;compe52;Idioma089; Aspectos sociales y culturales, cercanos a los intereses de los estudiantes, de los países donde se habla la lengua extranjera estudiada
+habi691;compe52;Idioma093; Reconocimiento de los sonidos característicos de la lengua extranjera y sus pautas de ritmo y entonación
+habi692;compe52;Idioma097;Reconocimiento de palabras y frases, oralmente y por escrito
+habi693;compe52;Idioma100;Comprensión global de los mensajes
+habi694;compe52;Idioma101;Participación en intercambios lingüísticos sencillos y breves con finalidades lúdicas
+habi695;compe52;Idioma103;Producción de expresiones cotidianas destinadas a cubrir necesidades simples de comunicación
+habi696;compe52;Idioma105; Utilización de fórmulas de relación social para una interacción adecuada
+habi697;compe52;Idioma107;Comprensión de mensajes escritos de diferente naturaleza (con apoyo visual)
+habi698;compe52;Idioma109;Transferencia al código escrito de informaciones recibidas oral o visualmente
+habi699;compe52;Idioma111;Comparación de aspectos relevantes de la vida cotidiana de los países donde se habla la lengua extranjera con los correspondientes en el propio país
+habi700;compe52;Idioma113; Muestra atención y respecto ante las intervenciones de los otros
+habi701;compe52;Idioma115;Desarrollo de una actitud positiva ante la propia capacidad para aprender una lengua extranjera
+habi702;compe52;Idioma117;Reconocimiento de la importancia de saber hablar, escribir y leer en una lengua extranjera
+habi703;compe52;Idioma119; Interés por conocer gente de otros países
+habi704;compe52;Idioma123;Reconocimiento del valor de la comunicación humana
+habi705;compe52;Idioma129;Captación del sentido global en textos orales
+habi706;compe52;Idioma133;Comprensión de instrucciones orales sencillas
+habi707;compe52;Idioma135;Participación en intercambios orales
+habi708;compe52;Idioma137;Lectura y comprensión de textos sencillos: cartas, notas, carteles, folletos, normas de aula, instrucciones de juego
+habi709;compe52; Idioma139; Escritura de textos cortos (carta, nota, cartel, folleto, etc.)
+habi710;compe52;Idioma145;Participación en la elaboración de un proyecto
+habi711;compe52;Idioma147;Conocimiento de aspectos de la vida y costumbres del país de la lengua estudiada
+habi712;compe52;Idioma151;Conocimiento de fórmulas básicas de relación social
+habi713;compe52;Idioma153;Uso de las nuevas tecnologías como instrumento de aprendizaje
+habi714;compe52; Idioma157;Creación de textos propios (cuentos, canciones, poemas)
+habi715;compe53;Idioma163;Vocabulario y estructuras lingüísticas necesarias para expresar oralmente y por escrito necesidades básicas en la comunicación
+habi716;compe53;Idioma165;Establecimiento de la relación entre el significado del vocabulario trabajado, su pronunciación y su representacióngráfica
+habi717;compe53;Idioma167;Aspectos sociales y culturales de los países donde se habla la lengua extranjera estudiada
+habi718;compe53;Idioma169;Comprensión de los mensajes del docente, de los compañeros y de los medios audiovisuales
+habi719;compe53;Idioma175;Utilización de estrategias verbales y no verbales para transmitir el significado
+habi720;compe53; Idioma179;Utilización de fórmulas y expresiones de cortesía adecuándolas a las situaciones de comunicación
+habi721;compe53;Idioma183;Reconocimiento de los elementos específicos, previamente identificados, en textos que contengan palabras y estructuras desconocidas
+habi722;compe53;Idioma185;Reconocimiento, en textos escritos, de estructuras gramaticales que sirven para preguntar, afirmar y negar
+habi723;compe53;Idioma187; Utilización de forma contextualizada de algunas reglas y hábitos de conducta de los países que hablan la lengua estudiada
+habi724;compe53;Idioma189;Muestra una actitud respetuosa hacia las personas que hablan una lengua diferente
+habi725;compe53;Idioma191; Participa de forma activa en intercambios orales para expresar sentimientos o ideas
+habi726;compe53;Idioma193; Muestra una actitud de aceptación de los errores e interés para superarlos
+habi727;compe53;Idioma195;Esfuerzo para utilizar todos los recursos disponibles para transmitir mensajes y evitar que se rompa la comunicación
+habi728;compe53;Idioma197;Reconocimiento de la importancia de saber leer en una lengua extranjera
+habi729;compe53; Idioma199;Captación del sentido global de diferentes tipos de texto
+habi730;compe53;Idioma201;Mantenimiento de conversaciones con otras personas
+habi731;compe53;Idioma203;Comprensión de textos varios (anuncios, cartas...)
+habi732;compe53;Idioma207;Elaboración de textos escritos (cartas, notas, felicitaciones, textos descriptivos, normativos, instrucciones, correo electrónico…)
+habi733;compe53;Idioma209; Uso de las nuevas tecnologías como herramienta de comunicación
+habi734;compe53; Idioma211;Lectura y comprensión global y específica de cartas, correo electrónico, cuentos, carteles, horarios, normas, instrucciones, páginas web, etc. adaptados a su competencia lingüística
+habi735;compe53;Idioma213; Uso de funciones básicas en intercambios comunicativos: preguntar y responder sobre lugares, profesiones y procedencia, pedir y dar una dirección, hablar de hechos presentes, pasados y futuros, formular sugerencias, describir personas y hacer comparaciones
+habi736;compe54;Idioma215;Identificación de información global y específica en textos orales y escritos
+habi737;compe54;Idioma217;Participación en conversaciones utilizando expresiones adecuadas
+habi738;compe54; Idioma219;Comprensión de textos escritos con apoyo visual. Uso del diccionario
+habi739;compe54; Idioma221;Producción de textos escritos utilizando vocabulario específico del tema
+habi740;compe54; Idioma223; Obtención de información de textos orales. Pedir y dar información
+habi741;compe54; Idioma225;Lectura selectiva para la comprensión general y la identificación de información específica
+habi742;compe54;Idioma227;Composición de textos cortos a partir de modelos
+habi743;compe54;Idioma231; Uso de reglas básicas de ortografía y puntuación
+habi744;compe54;Idioma233;Identificación de elementos morfológicos: verbos, adjetivos, preposiciones, pronombres, etc.
+habi745;compe54;Idioma235;Conjugación de tiempos verbales de verbos regulares e irregulares de uso frecuente
+habi746;compe54;Idioma237;Oraciones interrogativas y afirmativas. Orden de las palabras
+habi747;compe54;Idioma241;Afirmación, negación, posesión. Expresiones temporales
+habi748;compe54;Idioma243; Identificación y uso de expresiones comunes y frases hechas
+habi749;compe54;Idioma245;Descripción y narración de textos en pasado. Expresión de planes e instrucciones de futuro
+habi750;compe55;3004;Escribe al dictado y lee números hasta el 100
+habi751;compe55;3006;Asocia un número cardinal con su cantidad (0-100)
+habi752;compe55;3008;Conoce el anterior y el posterior de un número
+habi753;compe55;3010;Asocia un número cardinal con su cantidad (a partir del 100)
+habi754;compe55;3012;Diferencia entre números pares e impares
+habi755;compe55;3014;Escribe al dictado y lee números de tres dígitos
+habi756;compe55;3016;Determina si un número es par o impar
+habi757;compe55;3018;Escribe al dictado y lee números de cuatro dígitos
+habi758;compe55;3020;Escribe al dictado y lee números de cinco o seis dígitos
+habi759;compe55;3022;Conoce y usa la numeración romana de números naturales
+habi760;compe55;3024;Escribe al dictado y lee todo tipo de números
+habi761;compe56;3028;Forma grupos siguiendo un criterio (forma, tamaño, color, pertenencia o no a una colección, etc.)
+habi762;compe56;3030;Realiza correspondencias “más que”,“menos que”
+habi763;compe56;3032;Diferencia entre los conceptos: muchos pocos, uno-ninguno
+habi764;compe56;3034;Forma grupos verbalmente
+habi765;compe56;3036;Realiza correspondencias con grupos de igual número de elementos
+habi766;compe56;3038;Realiza clasificaciones de acuerdo con un único criterio
+habi767;compe56;3040;Realiza correspondencias con grupos de diferente número de elementos
+habi768;compe56;3042;Realiza correspondencias con grupos de elementos heterogéneos
+habi769;compe56;3044;Realiza clasificaciones siguiendo más de un criterio
+habi770;compe56;3046;Adscribe elementos a un grupo (pertenece / no pertenece)
+habi771;compe56;3048;Determina mayor / menor / igual, entre números menores de 1.000
+habi772;compe56;3050;Determina mayor / menor / igual entre números mayores de 1.000
+habi773;compe57;3054;Conoce los números ordinales del primero al décimo
+habi774;compe57;3056;Nombra los elementos de una fila por sus ordinales correspondientes
+habi775;compe57;3058;Conoce los números ordinales menores de 100
+habi776;compe57;3060;Utiliza los números ordinales en contextos próximos
+habi777;compe58;3064;Identifica las unidades y decenas en números de 1 y 2 dígitos
+habi778;compe58;3066;Identifica las unidades, decenas y centenas en números de tres dígitos
+habi779;compe58;3068;Identifica las unidades, decenas, centenas y unidades de millar en números de 4 dígitos
+habi780;compe58;3070;Identifica las unidades, decenas, centenas y las unidades, decenas y centenas de millar en números de 5 ó 6 dígitos
+habi781;compe58;3072;Identifica la décima, centésima y milésima en un número decimal
+habi782;compe58;3074;Identifica el valor posicional en números de 7 u 8 dígitos
+habi783;compe59;3080;Realiza series con modelos de dos elementos alternos y añade a una serie un elemento
+habi784;compe59;3082;Realiza series con modelos de más de dos elementos alternos
+habi785;compe59;3084;Realiza series numéricas añadiendo una unidad
+habi786;compe59;3086;Resuelve series ascendentes y descendentes
+habi787;compe59;3088;Realiza series de números con cadencia
+habi788;compe60;3092;Clasifica los números
+habi789;compe60;3094;Conoce qué es un número negativo
+habi790;compe60;3096;Utiliza los números negativos en contextos significativos (temperatura)
+habi791;compe60;3098;Comprende la necesidad de los números negativos para expresar estado y cambios
+habi792;compe60;3100;Ordena números enteros
+habi793;compe60;3102;Ordena números racionales
+habi794;compe60;3104;Trabaja con números racionales e identifica el representante canónico
+habi795;compe61;3108;Realiza cálculo aditivo oral con elementos reales
+habi796;compe61;3110;Lleva a cabo cálculo sustractivo oral con elementos reales
+habi797;compe61;3112;Suma sin llevar
+habi798;compe61;3114;Realiza sumas gráficas orales
+habi799;compe61;3116;Realiza restas gráficas orales
+habi800;compe61;3118;Suma llevando
+habi801;compe61;3120;Resta sin llevar
+habi802;compe61;3122;Calcula sumas y restas horizontales
+habi803;compe61;3124;Aplica la propiedad conmutativa de la suma
+habi804;compe61;3126;Resta llevando
+habi805;compe61;3128;Convierte sumas y restas horizontales en verticales y las calcula
+habi806;compe61;3130;Conoce y utiliza parejas de números en las que la suma es 10
+habi807;compe61;3132;Realiza sumas y restas incompletas
+habi808;compe61;3134;Hace sumas mentalmente
+habi809;compe61;3136;Calcula sumas y restas por estimación
+habi810;compe61;3138;Resuelve problemas de sumas
+habi811;compe61;3140;Resuelve problemas de restas
+habi812;compe61;3142;Resta mentalmente
+habi813;compe61;3144;Formula el enunciado de un problema que se resuelve mediante una suma o una resta
+habi814;compe61;3146;Resuelve un problema combinado con dos operaciones: una suma y una resta
+habi815;compe61;3148;"Resuelve expresiones numéricas del tipo: a +? = b ; a -? = b"
+habi816;compe62;3152;Razona que la multiplicación es una suma repetida
+habi817;compe62;3154;Divide de manera manipulativa (reparte)
+habi818;compe62;3156;Construye y memoriza las tablas de multiplicar
+habi819;compe62;3158;Multiplica por números de una cifra. Conoce los términos de la multiplicación
+habi820;compe62;3160;Divide por números de una cifra. Conoce los términos de la división
+habi821;compe62;3162;Resuelve problemas de multiplicación
+habi822;compe62;3164;Resuelve problemas de división
+habi823;compe62;3166;Comprende los conceptos: entero, partido, doble, mitad, triple, cuádruple
+habi824;compe62;3168;Multiplica por números de más de una cifra
+habi825;compe62;3170;Divide por números de más de una cifra en el divisor
+habi826;compe62;3172;Realiza la prueba de la división
+habi827;compe62;3174;Resuelve multiplicaciones por estimación
+habi828;compe62;3176;Resuelve multiplicaciones mentalmente
+habi829;compe62;3178;Realiza divisiones por estimación
+habi830;compe62;3180;"Completa expresiones numéricas de la forma: a x ¿ = b ; a : ¿ = b"
+habi831;compe62;3182;Calcula los múltiplos de un número
+habi832;compe62;3184;Comprende y aplica el concepto de número primo
+habi833;compe62;3186;Conoce las propiedades de la multiplicación
+habi834;compe62;3188;Resuelve divisiones mentalmente
+habi835;compe62;3190;Halla los divisores de un número
+habi836;compe62;3192;Descompone un número en factores primos
+habi837;compe62;3194;Calcula el máximo común divisor de un número
+habi838;compe62;3196;Calcula el mínimo común múltiplo de un número
+habi839;compe62;3198;Conoce las propiedades de la división
+habi840;compe63;3202;Lee, escribe y representa gráficamente fracciones sencillas
+habi841;compe63;3204;Ordena fracciones sencillas
+habi842;compe63;3206;Identifica la décima, centésima y milésima en un número decimal
+habi843;compe63;3208;Escribe fracciones en forma de expresión decimal y viceversa
+habi844;compe63;3210;Relaciona y compara números fraccionarios con decimales
+habi845;compe63;3212;Realiza sumas decimales
+habi846;compe63;3214;Realiza restas decimales
+habi847;compe63;3216;Multiplica con decimales
+habi848;compe63;3218;Divide con decimales
+habi849;compe63;3220;Resuelve problemas con decimales
+habi850;compe63;3222;Resuelve problemas con fracciones
+habi851;compe63;3224;Utiliza la regla de tres en situaciones de proporcionalidad directa
+habi852;compe63;3226;Suma fracciones
+habi853;compe63;3228;Resta fracciones
+habi854;compe63;3230;Calcula porcentajes de un número
+habi855;compe63;3232;Multiplica fracciones
+habi856;compe63;3234;Divide fracciones
+habi857;compe63;3236;Resuelve problemas de cálculo de porcentajes aplicados a la vida real
+habi858;compe63;3238;Ordena de mayor a menor números decimales y fracciones
+habi859;compe63;3240;Calcula razones, proporciones y la razón de proporcionalidad
+habi860;compe63;3242;Reduce fracciones a común denominador
+habi861;compe63;3244;Identifica fracciones equivalentes a una fracción dada
+habi862;compe63;3246;Simplifica fracciones. Reduce a común denominador
+habi863;compe63;3248;Resuelve problemas de proporcionalidad directa e inversa
+habi864;compe64;3252;Opera con potencias de base 10. Calcula cuadrados y cubos
+habi865;compe64;3254;Expresa en forma de potencia un producto de factores iguales
+habi866;compe64;3256;Calcula potencias de exponente natural
+habi867;compe64;3258;Opera con potencias de base entera y exponente natural
+habi868;compe64;3259;Opera con todo tipo de potencias
+habi869;compe64;3260;Realiza el cálculo aproximado de raíces cuadradas
+habi870;compe64;3262;Calcula la raíz cuadrada de un número
+habi871;compe65;3265;Conoce y utiliza la notación científica
+habi872;compe65;3266;Resuelve problemas mediante dos o más operaciones aritméticas
+habi873;compe65;3268;Opera combinadamente con fracciones y números decimales
+habi874;compe65;3270;Opera combinadamente con números naturales
+habi875;compe65;3272;Opera combinadamente con números decimales
+habi876;compe65;3274;Opera combinadamente con números fraccionarios
+habi877;compe66;3278;Utiliza la calculadora como herramienta de cálculo matemático
+habi878;compe67;3300;Distingue los elementos básicos de un problema (pregunta y datos importantes)
+habi879;compe67;3302;Resuelve juegos matemáticos de sumas y restas
+habi880;compe67;3304;Reconoce las palabras clave y representa gráficamente el enunciado de un problema
+habi881;compe67;3306;Utiliza estrategias de resolución de problemas aplicados a la vida real
+habi882;compe67;3308;Resuelve juegos matemáticos de diagramas de cálculo
+habi883;compe67;3310;Resuelve juegos matemáticos de series gráficas
+habi884;compe67;3312;Resuelve juegos matemáticos de reglas y estrategias (adivina números ocultos)
+habi885;compe67;3314;Resuelve juegos matemáticos de diagramas multiplicativos
+habi886;compe68;3322;Resuelve problemas utilizando ecuaciones de primer grado
+habi887;compe68;3324;Lee y escribe expresiones algebraicas e interpretación fórmulas y expresiones algebraicas
+habi888;compe68;3326;Realiza sumas, restas, multiplicaciones y divisiones con expresiones algebraicas
+habi889;compe68;3327;Descompone polinomios
+habi890;compe68;3328;Aplica la propiedad distributiva de una expresión algebraica
+habi891;compe68;3329;Utiliza las identidades notable
+habi892;compe68;3330;Escribe la ecuación de una función definida según un criterio establecido
+habi893;compe68;3332;Construye una tabla de valores de una función
+habi894;compe68;3334;Representa gráficamente una función
+habi895;compe68;3336;Resuelve ecuaciones de primer grado con una incógnita
+habi896;compe68;3337;Resuelve problemas utilizando métodos numéricos, gráficos y algebraicos
+habi897;compe68;3338;Resuelve ecuaciones de segundo grado
+habi898;compe68;3340;Resuelve sistema de ecuaciones
+habi899;compe69;3380;Conoce los conceptos de punto, recta y plano
+habi900;compe69;3382;Reconoce y dibuja líneas abiertas y cerradas
+habi901;compe69;3384;Reconoce y dibuja líneas curvas y rectas
+habi902;compe69;3386;Completa figuras simétricas
+habi903;compe69;3388;Reconoce y dibuja curvas abiertas y cerradas
+habi904;compe69;3390;Reconoce y dibuja rectas paralelas, perpendiculares y secantes
+habi905;compe69;3392;Identifica en un plano las posiciones de dos rectas
+habi906;compe69;3394;Representa la mediatriz de un segmento
+habi907;compe70;3410;Identifica, mide y transporta ángulos
+habi908;compe70;3412;Reconoce y clasifica ángulos (rectos, agudos, obtusos)
+habi909;compe70;3414;Compara tipos de ángulos (complementarios, suplementarios y opuestos)
+habi910;compe70;3416;Calcula los ángulos complementario y suplementario de otro
+habi911;compe70;3418;Representa la bisectriz de un ángulo
+habi912;compe71;3430;Reconoce y dibuja formas: cuadrado, círculo, triángulo …
+habi913;compe71;3432;Comprende el concepto de polígono. Reconoce y representa polígonos regulares e irregulares
+habi914;compe71;3434;Conoce elementos geométricos básicos (lado, vértice, perímetro ...)
+habi915;compe71;3436;Clasifica polígonos según diversos criterios
+habi916;compe71;3438;Clasifica cuadriláteros
+habi917;compe71;3440;Realiza la composición y descomposición de un polígono
+habi918;compe72;3452;Reconoce tipos de triángulos
+habi919;compe72;3454;Comprende y aplica el teorema de Pitágoras
+habi920;compe72;3456;Comprende y aplica el primer teorema de Tales
+habi921;compe72;3458;Dibuja los elementos de un triángulo 3460 Resuelve problemas aplicando las propiedades de los triángulos
+habi922;compe73;3474;Conoce las partes de la circunferencia
+habi923;compe73;3476;Diferencia entre circunferencia y círculo
+habi924;compe73;3478;Conoce las partes del círculo
+habi925;compe73;3480;Identifica y dibuja los elementos de la circunferencia
+habi926;compe74;3492;Clasifica formas geométricas planas
+habi927;compe74;3494;Resuelve problemas de cálculo de perímetros de figuras planas
+habi928;compe74;3496;Resuelve problemas de cálculo de áreas de figuras planas
+habi929;compe74;3498;Resuelve problemas de aplicación de fórmulas (longitud circunferencia, área círculo) 3500
+habi930;compe74;3500;Conoce áreas de figuras planas (cuadrados, triángulos, rectángulos, círculos)
+habi931;compe74;3502;Conoce conceptos de geometría plana. Mide y calcula ángulos
+habi932;compe75;3516;Conoce cuerpos geométricos (esfera y cubo ...)
+habi933;compe75;3518;Identifica cuerpos geométricos en objetos familiares (cubo, cilindro ...)
+habi934;compe75;3520;Identifica y clasifica figuras y cuerpos geométricos ( cubo, pirámide, cilindro, esfera ...)
+habi935;compe75;3522;Reconoce en un poliedro caras, aristas, vértices, ángulos, diagonales y ejes de simetría
+habi936;compe75;3524;Identifica y clasifica poliedros
+habi937;compe75;3526;Dibuja y construye figuras y cuerpos geométricos
+habi938;compe75;3528;Conoce áreas de cuerpos geométricos (cubo, cilindro, prisma, esfera ...)
+habi939;compe75;3530;Resuelve problemas de áreas de cuerpos geométricos
+habi940;compe75;3532;Calcula el volumen de cuerpos geométricos
+habi941;compe75;3534;Resuelve problemas de volúmenes de cuerpos geométricos
+habi942;compe76;3550;Sigue itinerarios utilizando puntos de referencia
+habi943;compe76;3552;Utiliza las coordenadas cartesianas para situar puntos en el espacio
+habi944;compe76;3554;Representa espacios mediante planos y maquetas
+habi945;compe76;3556;Realiza planos, croquis e itinerarios
+habi946;compe76;3558;Busca información en mapas a partir de unas coordenadas
+habi947;compe76;3560;Interpreta las dimensiones representadas en mapas y planos aplicando el concepto de escala
+habi948;compe77;3576;Diferencia entre: grandepequeño, largo-corto, lleno-vacío
+habi949;compe77;3578;Diferencia entre: alto-bajo, grueso- delgado, ancho-estrecho
+habi950;compe77;3580;Conoce instrumentos de medida del tiempo
+habi951;compe77;3582;Utiliza el reloj
+habi952;compe77;3584;Utiliza la regla
+habi953;compe77;3586;Utiliza la alanza
+habi954;compe77;3588;Utiliza instrumentos de medida (ábaco, regletas, calculadora, balanza, metro, etc.)
+habi955;compe77;3590;Usa el transportador de ángulos
+habi956;compe77;3592;Adquiere los conceptos de longitud, superficie, volumen, capacidad, masa y tiempo
+habi957;compe77;3594;Calcula por estimación medidas de longitud, masa, capacidad, superficie, etc.
+habi958;compe77;3596;Utiliza instrumentos para medir líquidos
+habi959;compe78;3610;Conoce medidas naturales de longitud (pie, palmo, pulgada)
+habi960;compe78;3612;Conoce las unidades de longitud
+habi961;compe78;3614;Resuelve problemas de longitud
+habi962;compe78;3616;Conoce medidas de longitud tradicionales del país
+habi963;compe78;3618;Transforma unidades de longitud (múltiplos y submúltiplos)
+habi964;compe78;3620;Expresa de forma compleja e incompleja medidas de longitud
+habi965;compe79;3634;Conoce medidas de masa tradicionales del país
+habi966;compe79;3636;Resuelve problemas de masa
+habi967;compe79;3638;Conoce las unidades de masa
+habi968;compe79;3640;Transforma unidades de masa (múltiplos y submúltiplos)
+habi969;compe79;3642;Expresa de forma compleja e incompleja medidas de masa
+habi970;compe80;3656;Conoce medidas de capacidad tradicionales del país
+habi971;compe80;3658;Conoce unidades de capacidad
+habi972;compe80;3660;Resuelve problemas de capacidad
+habi973;compe80;3662;Transforma unidades de capacidad (múltiplos y submúltiplos)
+habi974;compe80;3664;Expresa de forma compleja e incompleja medidas de capacidad
+habi975;compe81;3678;Utiliza la cuadrícula para expresar la medida de la superficie de cuadrados y rectángulos
+habi976;compe81;3680;Conoce unidades de superficie
+habi977;compe81;3682;Transforma unidades de superficie (múltiplos y submúltiplos)
+habi978;compe81;3684;Conoce medidas de superficie local y las transforma en metros cuadrados
+habi979;compe81;3686;Expresa de forma compleja e incompleja medidas de superficie
+habi980;compe82;3700;Conoce unidades de volumen
+habi981;compe82;3704;Conoce métodos para calcular el volumen de un cuerpo
+habi982;compe82;3706;Transforma unidades de volumen (múltiplos y submúltiplos)
+habi983;compe82;3708;Calcula el volumen de cuerpos geométricos
+habi984;compe83;3722;Mide ángulos
+habi985;compe83;3724;Realiza operaciones en el sistema sexagesimal
+habi986;compe83;3726;Resuelve problemas de conversión de medidas angulares
+habi987;compe83;3728;Mide ángulos complementarios y suplementarios
+habi988;compe83;3730;Expresa de forma compleja e incompleja medidas sexagesimales de ángulos
+habi989;compe84;3742;Diferencia: día-noche, mañanatarde, antes-después
+habi990;compe84;3744;Realiza estimaciones de la duración de rutinas de la vida diaria
+habi991;compe84;3746;Realiza estimaciones temporales: días festivos/días laborables, horas de descanso/comida/juego, etc.
+habi992;compe84;3748;Resuelve problemas de tiempo
+habi993;compe84;3750;Conoce medidas de tiempo mayores que el día
+habi994;compe84;3752;Transforma unidades de tiempo (año, mes, día, hora, minuto y segundo ...)
+habi995;compe84;3754;Expresa de forma compleja e incompleja medidas sexagesimales de tiempo
+habi996;compe85;3768;Resuelve problemas de precios
+habi997;compe85;3770;Conoce monedas y billetes y realiza comparaciones entre ellos
+habi998;compe85;3772;Utiliza todo tipo de monedas y billetes (múltiplos y submúltiplos)
+habi999;compe85;3774;Realiza conversiones entre monedas
+habi1000;compe86;3788;Resuelve problemas con unidades del Sistema Internacional
+habi1001;compe86;3790;Conoce las unidades del Sistema Internacional: equivalencias, múltiplos y submúltiplos
+habi1002;compe86;3792;Establece relaciones entre el volumen y la capacidad
+habi1003;compe86;3794;Establece relaciones entre volumen y masa (cálculo de densidades)
+habi1004;compe87;3810;Conoce y clasifica las variables estadísticas
+habi1005;compe87;3812;Utiliza técnicas elementales de recogida de datos (encuesta, observación y medición)
+habi1006;compe87;3814;Realiza recuentos y registros de datos
+habi1007;compe87;3816;Recoge y clasifica datos cualitativos y cuantitativos no agrupados
+habi1008;compe88;3826;Construye tablas de recogida de datos
+habi1009;compe88;3828;Utiliza la hoja de cálculo para organizar los datos y realizar cálculos
+habi1010;compe88;3830;Lee, interpreta y elabora tablas de doble entrada
+habi1011;compe88;3832;Representa e interpreta tablas de frecuencias (absoluta, relativa y acumulada)
+habi1012;compe89;3846;Representa, interpreta y analiza datos mediante diagramas de barras
+habi1013;compe89;3848;Representa, interpreta y analiza datos mediante diagrama de sectores
+habi1014;compe89;3850;Representa, interpreta y analiza datos mediante histogramas, polígonos de frecuencias y pictogramas
+habi1015;compe89;3852;Obtiene información de gráficas de temas de la vida diaria
+habi1016;compe89;3854;Crea gráficos utilizando la hoja de cálculo
+habi1017;compe90;3868;Calcula e interpreta medidas de centralización (moda, media, mediana ...)
+habi1018;compe90;3870;Calcula e interpreta medidas de dispersión (rango, desviación media y típica, varianza, coeficiente de variación ...)
+habi1019;compe90;3872;Calcula e interpreta medidas de posición (cuartiles, percentiles,...)
+habi1020;compe91;3886;Identifica experiencias aleatorias
+habi1021;compe91;3888;Diferencia entre tipos de sucesos (elementales, compuestos,...)
+habi1022;compe91;3890;Determina espacios muestrales
+habi1023;compe91;3892;Calcula la probabilidad de un suceso. Aplica la regla de Laplace
+habi1024;compe91;3894;Utiliza métodos de conteo (del producto y diagramas de árbol)
+habi1025;compe91;3896;Resuelve problemas de probabilidad condicionada
+habi1026;compe92;4004;Observa las cualidades perceptibles de los objetos, materiales e imágenes de su entorno y las semejanzas y diferencias entre ellas
+habi1027;compe92;4006;Detecta las variaciones en los elementos de su entorno
+habi1028;compe92;4008;Identifica las características de los elementos de su entorno y las relaciona con diferentes formas de representación (imágenes fijas o móviles, etc.)
+habi1029;compe92;4010;Conoce las características de las estaciones del año
+habi1030;compe92;4012;Se sitúa a sí mismo y a objetos en el espacio y describe su posición: izquierda / derecha, dentro / fuera, arriba / abajo, delante / detrás, lejos / cerca, encima / debajo
+habi1031;compe92;4016;Identifica el lugar que ocupa en su familia y las relaciones de parentesco entre los miembros de ésta
+habi1032;compe92;4018;Comunica información sobre su familia
+habi1033;compe92;4020;Identifica personas adultas y compañeros que conviven en la escuela
+habi1034;compe92;4023;Conoce las actividades y ocupaciones de las personas de su entorno sociocultural cercano
+habi1035;compe92;4024;Establece relaciones entre los espacios y las actividades que se realizan en ellos
+habi1036;compe92;4026;Reconoce distintos tipos de viviendas y analiza sus dependencias y materiales
+habi1037;compe92;4028;Localiza la procedencia de algunos recursos del marco natural que el ser humano utiliza para vivir
+habi1038;compe92;4032;Reconoce y aprecia la pertenencia a grupos sociales con características y rasgos propios: familia, vecindario, etc. (sus normas, sus costumbres, sus valores,etc.)
+habi1039;compe92;4035;Conoce tradiciones populares, fiestas y juegos de su zona
+habi1040;compe92;4036;Conoce y respeta la diversidad de etnias, culturas, profesiones ... del contexto social
+habi1041;compe92;4038;Identifica los medios de transporte y de comunicación analizando sus funciones
+habi1042;compe92;4040;Establece relaciones de causa-efecto ante hechos, acontecimientos o situaciones relativas a elementos del entorno natural y social
+habi1043;compe93;4050;Construye mecanismos sencillos a partir de elementos cotidianos
+habi1044;compe93;4052;Tiene iniciativa para realizar actividades y experiencias
+habi1045;compe93;4053;Conoce y diferencia los pasos del método científico
+habi1046;compe93;4054;Establece hipótesis ante el planteamiento de un problema utilizando argumentos para justificarlas
+habi1047;compe93;4056;Diseña una experiencia para confirmar su hipótesis
+habi1048;compe93;4058;Planifica y sigue acciones ordenadas en el tiempo al realizar sus experiencias
+habi1049;compe93;4060;Compara los resultados de sus experiencias con las predicciones hechas previamente
+habi1050;compe93;4062;Expresa, con precisión y coherencia, por escrito, las conclusiones de sus investigaciones utilizando esquemas, gráficos, tablas…
+habi1051;compe93;4064;Expone y defiende en público el proyecto de investigación realizado
+habi1052;compe94;4078;Se orienta en el espacio (puntos cardinales)
+habi1053;compe94;4080;Conoce e identifica distintas representaciones de la Tierra (planos, mapas, planisferios y globos terráqueos)
+habi1054;compe94;4082;Interpreta las dimensiones representadas en mapas y planos. Escalas
+habi1055;compe94;4084;Utiliza e interpreta los signos convencionales más usuales que aparecen en los mapas
+habi1056;compe94;4086;Localiza diferentes puntos de la Tierra empleando los paralelos y meridianos y las coordenadas geográficas
+habi1057;compe94;4088;Conoce la estructura y composición de la atmósfera
+habi1058;compe94;4090;Identifica y nombra fenómenos atmosféricos
+habi1059;compe94;4092;Describe las causas que producen la formación de las nubes y las precipitaciones
+habi1060;compe94;4094;Identifica aparatos que se utilizan para la recogida de datos atmosféricos e indica su función
+habi1061;compe94;4096;Explica la dinámica atmosférica
+habi1062;compe94;4098;Confecciona e interpreta gráficos sencillos de temperaturas y precipitaciones
+habi1063;compe94;4100;Interpreta sencillos mapas meteorológicos distinguiendo sus elementos principales
+habi1064;compe94;4102;Define clima, nombra sus elementos e identifica los factores que lo determinan
+habi1065;compe94;4104;Explica qué es una zona climática y describe las características de las más importantes
+habi1066;compe94;4106;Describe y localiza los tipos de climas del país y analiza sus climogramas
+habi1067;compe94;4108;Localiza la hidrosfera y diferencia entre las masas y cursos de agua que la componen
+habi1068;compe94;4110;Explica el ciclo del agua
+habi1069;compe94;4112;Identifica y nombra los tramos de un río y las características de cada uno de ellos
+habi1070;compe94;4114;Reconoce los principales rasgos del relieve y los ríos del continente
+habi1071;compe94;4116;Localiza en un mapa los principales accidentes geográficos del país y del continente
+habi1072;compe94;4118;Conoce los paisajes predominantes en el país y su dependencia del clima
+habi1073;compe95;4132;Explica la organización territorial del país y localiza en mapas políticos las regiones/provincias/departamentos que lo forman
+habi1074;compe95;4134;Valora la diversidad cultural, social, política y lingüística del país como fuente de enriquecimiento cultural
+habi1075;compe95;4136;Explica qué es la Unión Europea y localiza en un mapa los países miembros
+habi1076;compe95;4138;Explica qué es Mercosur y localiza en un mapa los países miembros
+habi1077;compe95;4140;Conoce los principales factores que inciden en la distribución de la población y cómo lo hacen
+habi1078;compe95;4142;Interpreta pirámides de población y otros gráficos usados en el estudio de la población
+habi1079;compe95;4144;Describe los principales rasgos de la población del país y del continente
+habi1080;compe95;4146;Explica el proceso de la evolución de la población del país y del continente
+habi1081;compe95;4148;Sitúa en un mapa los mayores núcleos de población del país y las zonas más densamente pobladas
+habi1082;compe95;4149;Localiza en mapas los países del mundo y sus capitales
+habi1083;compe95;4150;Reconoce oficios y trabajos agrícolas, industriales y de servicio valorando sus aportaciones a la sociedad
+habi1084;compe95;4152;Identifica los sectores económicos e incluye distintas actividades en el sector al que pertenecen
+habi1085;compe95;4154;Describe ordenadamente el proceso de obtención de un producto hasta su venta, e identifica los sectores implicados
+habi1086;compe95;4156;Localiza en un mapa los territorios donde se realizan las actividades relevantes de los sectores económicos del país y del continente
+habi1087;compe96;4174;Conoce las edades de la historia y los hechos que marcan el inicio y el final de cada una
+habi1088;compe96;4176;Explica y valora los cambios sociales asociados al descubrimiento de la escritura, la agricultura y la ganadería
+habi1089;compe96;4178;Reconoce el siglo como unidad de medida del tiempo histórico y localiza hechos situándolos a.C. o d.C.
+habi1090;compe96;4180;Conoce las grandes civilizaciones y algunas de sus aportaciones
+habi1091;compe96;4183;Usa técnicas para localizar en el tiempo y en el espacio hechos del pasado, percibiendo la duración, la simultaneidad y las relaciones entre los acontecimientos
+habi1092;compe96;4184;Identifica y localiza en el tiempo y en el espacio los hechos fundamentales de la historia del país, y describe las principales características de cada uno de ellos
+habi1093;compe96;4186;Explica aspectos relacionados con la forma de vida y organización social del país en las distintas épocas históricas estudiadas
+habi1094;compe96;4188;Describe, en orden cronológico, los principales movimientos artísticos y culturales de las distintas etapas de la historia del país, citando a sus representantes más significativos
+habi1095;compe96;4190;Diferencia entre los períodos de la Prehistoria y describe las características básicas de las formas de vida en ellos
+habi1096;compe96;4192;Data la Edad Antigua y describe las características básicas de la vida en aquel tiempo
+habi1097;compe96;4194;Identifica los rasgos distintivos de las culturas que habitaron el territorio del país durante la Edad Media y describe la evolución política y los distintos modelos sociales
+habi1098;compe96;4196;Explica las características de la Edad Moderna y los acontecimientos de este período que determinaron cambios fundamentales en la historia
+habi1099;compe96;4198;Explica los principales acontecimientos de los siglos XIX y XX que determinaron la Historia Contemporánea del país
+habi1100;compe96;4200;Conoce algunos episodios y personajes históricos de diferentes épocas y analiza críticamente situaciones del pasado y del presente (esclavitud, paro, etc.)
+habi1101;compe96;4202;Describe los rasgos característicos de la sociedad actual del país y valora su pertenencia a organismos internacionales
+habi1102;compe96;4204;Aprecia el patrimonio histórico, cultural y artístico como riqueza compartida que hay que conocer, preservar y cuidar
+habi1103;compe129;6000;Describe cómo se originó el Universo y explica sus principales componentes
+habi1104;compe129;6001;Conoce los componentes y las características del Sistema Solar
+habi1105;compe129;6002;Diferencia entre los movimientos de la Tierra y explica algunas de sus consecuencias (día/ noche, estaciones)
+habi1106;compe129;6007;Relaciona las fases lunares y los eclipses con la posición relativa de la Tierra, la Luna y el Sol
+habi1107;compe129;6008;Relaciona las características generales  y los materiales de la corteza, el manto y el núcleo terrestre con su ubicación
+habi1108;compe129;6009;Analiza y compara los diferentes modelos que explican la estructura y composición de la Tierra
+habi1109;compe129;6010;Relaciona las características de la estructura interna de la Tierra con fenómenos superficiales
+habi1110;compe130;6011;Conoce el concepto de mineral e identifica minerales
+habi1111;compe130;6012;Conoce el concepto de roca y las clasifica
+habi1112;compe130;6013;Explica cómo se originan distintos tipos de rocas
+habi1113;compe130;6014;Conoce la utilidad de los minerales y las rocas en la vida cotidiana
+habi1114;compe131;6021;Diferencia los procesos de meteorización, erosión, transporte y sedimentación y sus efectos en el relieve
+habi1115;compe131;6022;Explica cómo influyen el clima y las características de las rocas en el tipo de relieve
+habi1116;compe131;6023;Analiza la actividad de erosión, transporte y sedimentación producida por las aguas superficiales y reconoce alguno de sus efectos en el relieve
+habi1117;compe131;6024;Explica la acción geológica del mar e identifica formas de relieve características
+habi1118;compe131;6025;Reconoce las principales formas de relieve originadas por las aguas subterráneas: el modelado kárstico
+habi1119;compe131;6026;Analiza la dinámica glaciar e identifica sus efectos sobre el relieve
+habi1120;compe131;6027;Asocia la actividad eólica con las formas de relieve resultantes
+habi1121;compe131;6028;Identifica la intervención de seres vivos en procesos de meteorización, erosión y sedimentación
+habi1122;compe132;6029;Localiza en un mapa las principales zonas de volcanes y terremotos del planeta
+habi1123;compe132;6030;Explica el origen de un volcán y localiza sus partes
+habi1124;compe132;6033;Relaciona los tipos de erupción volcánica con el magma que los origina y los asocia con su peligrosidad
+habi1125;compe132;6034;Conoce y describe cómo se originan los seísmos y los efectos que generan
+habi1126;compe132;6035;Conoce cómo actuar ante un terremoto o erupción volcánica
+habi1127;compe132;6036;Reconoce pliegues y fallas y comprende su origen
+habi1128;compe132;6037;Dibuja pliegues y fallas de distinto tipo y sitúa en ellos sus elementos
+habi1129;compe132;6038;Expresa algunas evidencias actuales de la deriva continental y la expansión del fondo oceánico
+habi1130;compe132;6039;Localiza las principales placas tectónicas y sus límites
+habi1131;compe132;6040;Relaciona los límites de las placas tectónicas con los procesos que se producen en ellos
+habi1132;compe133;6041;Resuelve problemas simples de datación relativa, aplicando los principios de superposición de estratos, superposición de procesos y correlación
+habi1133;compe133;6042;Describe las características que hicieron posible el desarrollo de la vida en la Tierra
+habi1134;compe133;6043;Conoce eventos que dieron lugar a grandes cambios en la Tierra
+habi1135;compe133;6044;Comprende que los seres vivos aparecen en la Tierra de manera gradual y reconoce fósiles característicos de cada era
+habi1136;compe133;6045;Relaciona variabilidad genética, adaptación y selección natural
+habi1137;compe133;6046;Describe diversas teorías sobre el origen de la vida y de las distintas especies de seres vivos
+habi1138;compe133;6047;Conoce y describe distintas etapas en la evolución del hombre
+habi1139;compe133;6048;Interpreta árboles filogenéticos
+habi1140;compe134;6071;Diferencia la materia viva de la inerte partiendo de características particulares de ambas
+habi1141;compe134;6072;Conoce los elementos que forman parte de los seres vivos, el papel que juegan en ellos y los grandes grupos de moléculas que forman
+habi1142;compe134;6073;Conoce la composición y propiedades del agua y su importancia para los seres vivos
+habi1143;compe134;6074;Explica la función de las sales minerales en los seres vivos y conoce estructuras en las que abundan
+habi1144;compe134;6075;Diferencia entre los distintos glúcidos (hidratos de carbono) y las funciones que realizan en los seres vivos
+habi1145;compe134;6076;Conoce los principales grupos de lípidos y su importancia en los seres vivos
+habi1146;compe134;6077;Conoce la composición y estructura de las proteínas y valora la diversidad de funciones que realizan en los seres vivos
+habi1147;compe134;6078;Explica las estructuras y funciones de los ácidos nucleicos
+habi1148;compe135;6082;Comprende la importancia de cada función vital para el mantenimiento de la vida
+habi1149;compe135;6083;Diferencia entre distintos tipos de células
+habi1150;compe135;6084;Reconoce las principales estructuras celulares y las relaciona con su función
+habi1151;compe135;6085;Conoce los mecanismos básicos de nutrición de la célula
+habi1152;compe135;6086;Conoce las formas de relacionarse las células
+habi1153;compe135;6087;Reconoce las fases de la mitosis y meiosis, diferencia ambos procesos y explica su significado biológico
+habi1154;compe135;6088;Utiliza adecuadamente el microscopio
+habi1155;compe135;6089;Conoce la existencia de formas más simples que la célula (virus) y su relación con los seres vivos
+habi1156;compe135;6090;Conoce las características y funciones de los principales tejidos de los seres vivos
+habi1157;compe136;6095;Conoce los principales grupos de animales vertebrados y sus características
+habi1158;compe136;6096;Conoce los principales grupos de animales invertebrados y sus características
+habi1159;compe136;6097;Diferencia entre los animales domésticos y los salvajes. Conoce donde viven y su relación con el ser humano
+habi1160;compe136;6098;Conoce los principales órganos y aparatos de los animales y explica como funcionan
+habi1161;compe136;6099;Describe como realizan los animales las funciones vitales
+habi1162;compe136;6100;Identifica ejemplares de animales de interés especial ( especies en peligro de extinción, endémicas …)
+habi1163;compe136;6101;Relaciona la presencia en los animales de determinadas estructuras con su adaptación al medio
+habi1164;compe137;6102;Conoce de los principales grupos de plantas y sus características
+habi1165;compe137;6103;Identifica plantas silvestres y cultivadas. Conoce sus usos
+habi1166;compe137;6104;Conoce la morfología de la raíz, el tallo y las hojas y el papel de estos órganos en la nutrición y la relación de las plantas
+habi1167;compe137;6105;Describe las estructuras reproductoras de las plantas y explica cómo se reproducen
+habi1168;compe137;6106;Identifica ejemplares de plantas de interés especial ( especies en peligro de extinción, endémicas …)
+habi1169;compe137;6107;Relaciona la presencia en las plantas de determinadas estructuras con su adaptación al medio
+habi1170;compe138;6114;Diferencia entre la organización uni y pluricelular
+habi1171;compe138;6115;Comprende las diferencias entre los distintos reinos de seres vivos
+habi1172;compe138;6116;Valora la necesidad de clasificar y nombrar los seres vivos
+habi1173;compe138;6117;Valora la importancia de las bacterias, algas y hongos en el mantenimiento de la vida sobre el planeta
+habi1174;compe138;6118;Conoce enfermedades producidas por Protozoos y la forma de evitar su contagio
+habi1175;compe138;6119;Reconoce ejemplares característicos de cada uno de estos reinos
+habi1176;compe138;6120;Clasifica ejemplares de seres vivos a partir de claves de identificación
+habi1177;compe139;6123;Explica los diferentes niveles de organización en el ser humano
+habi1178;compe139;6124;Conoce los aparatos implicados en la nutrición y su contribución a dicho proceso
+habi1179;compe139;6125;Conoce la anatomía y fisiología de los componentes de los aparatos digestivo, circulatorio, respiratorio y excretor
+habi1180;compe139;6126;Conoce los aparatos y sistemas implicados en la relación y su contribución a dicho proceso
+habi1181;compe139;6127;Describe los procesos implicados en la función de relación, identificando el órgano o estructura responsable de cada proceso
+habi1182;compe139;6128;Clasifica distintos tipos de receptores sensoriales y los relaciona con los órganos de los sentidos en los cuales se encuentran
+habi1183;compe139;6129;Conoce la anatomía de los sistemas nerviosos central y periférico
+habi1184;compe139;6130;Conoce las principales funciones que realiza el sistema nervioso
+habi1185;compe139;6131;Conoce las glándulas endocrinas, las hormonas que segregan y las funciones que realizan
+habi1186;compe139;6132;Reconoce procesos cotidianos en los que se evidencia la integración neuro- endocrina
+habi1187;compe139;6133;Conoce la localización de los principales huesos y músculos del cuerpo humano
+habi1188;compe139;6134;Conoce los distintos órganos, del aparato reproductor masculino y femenino, especificando sus funciones
+habi1189;compe139;6135;Compara la espermatogénesis con la ovogénesis
+habi1190;compe139;6136;Explica las fases del desarrollo embrionario y los acontecimientos característicos de cada una de ellas
+habi1191;compe139;6137;Conoce las características de las etapas de la vida de un ser humano
+habi1192;compe139;6138;Identifica las técnicas de reproducción asistida más frecuentes
+habi1193;compe140;6140;Identifica los distintos componentes de un ecosistema
+habi1194;compe140;6141;Observa e identifica ecosistemas
+habi1195;compe140;6142;Reconoce los diferentes niveles tróficos y sus relaciones en los ecosistemas
+habi1196;compe140;6143;Comprende las relaciones entre biotopo y biocenosis, evaluando su importancia para mantener el equilibrio del ecosistema
+habi1197;compe140;6144;Interpreta las adaptaciones de los seres vivos a un ambiente determinado
+habi1198;compe140;6145;Explica el origen de un suelo y valora la necesidad de protegerlo
+habi1199;compe140;6146;Conoce los factores desencadenantes de desequilibrios en un ecosistema y desarrolla actitudes de defensa y recuperación del equilibrio ecológico
+habi1200;compe140;6147;Analiza la contaminación desde distintos puntos de vista y propone acciones y hábitos que contribuyen a su solución
+habi1201;compe140;6148;Valora el impacto medioambiental producido por actividades humanas
+habi1202;compe140;6149;Explica la necesidad del uso sostenible de los recursos naturales y enumera medidas concretas que lo apoyen
+habi1203;compe141;6152;Reconoce la función del ADN como portador de la información genética y la relaciona con el concepto de gen
+habi1204;compe141;6153;Conoce las características fundamentales del código genético
+habi1205;compe141;6154;Reconoce y explica en qué consisten las mutaciones y sus tipos
+habi1206;compe141;6155;Conoce los principios básicos de la  Genética mendeliana
+habi1207;compe141;6156;Aplica las leyes de la herencia a la resolución de problemas
+habi1208;compe141;6157;Identifica las enfermedades hereditarias más frecuentes
+habi1209;compe141;6158;Diferencia técnicas de trabajo en ingeniería genética
+habi1210;compe141;6159;Describe las técnicas de clonación animal, distinguiendo clonación terapéutica y reproductiva
+habi1211;compe142;6161;Conoce el concepto de átomo y diferencia entre distintos modelos atómicos
+habi1212;compe142;6162;Diferencia las características de distintas partículas subatómicas
+habi1213;compe142;6163;Identifica sistemas materiales como sustancias puras o mezclas y valora la importancia y las aplicaciones de mezclas de especial interés
+habi1214;compe142;6164;Propone métodos de separación de los componentes de una mezcla
+habi1215;compe142;6165;Resuelve problemas de disoluciones químicas
+habi1216;compe142;6166;Justifica las propiedades de los diferentes estados de agregación de la materia y sus cambios de estado, a través del modelo cinético-molecular
+habi1217;compe142;6167;Enuncia las leyes de los gases y las representa gráficamente
+habi1218;compe143;6172;Asocia los elementos químicos de la tabla periódica con su símbolo
+habi1219;compe143;6173;Conoce los grupos y períodos de la tabla periódica y los criterios utilizados para su creación
+habi1220;compe143;6174;Sitúa en la tabla periódica los elementos químicos
+habi1221;compe143;6175;Diferencia entre número atómico y número másico. Resuelve problemas sobre el tema
+habi1222;compe143;6176;Explica el concepto de ión. Identifica sus tipos y conoce las diferencias entre ellos
+habi1223;compe143;6177;Comprende qué es el número de oxidación y su importancia
+habi1224;compe143;6178;Conoce los principales números de oxidación de los elementos
+habi1225;compe143;6179;Formula y nombra compuestos inorgánicos binarios
+habi1226;compe143;6180;Formula y nombra compuestos inorgánicos ternarios
+habi1227;compe143;6181;Formula y nombra compuestos inorgánicos cuaternarios
+habi1228;compe143;6182;Conoce las características del átomo de carbono y su importancia en la química orgánica
+habi1229;compe143;6183;Formula y nombra compuestos orgánicos
+habi1230;compe144;6186;Diferencia entre los distintos tipos de enlaces y los reconoce en esquemas
+habi1231;compe144;6187;Relaciona propiedades de un compuesto con su tipo de enlace
+habi1232;compe144;6188;Reconoce en situaciones de la vida cotidiana cambios físicos y químicos
+habi1233;compe144;6189;Resuelve problemas utilizando las leyes de las reacciones químicas
+habi1234;compe144;6190;Comprende los conceptos de mol y de número de Avogadro y los aplica a la resolución de problemas
+habi1235;compe144;6191;Reconoce cuáles son los reactivos y los productos a partir de la representación de reacciones químicas sencillas y comprueba que se cumple la ley de conservación de la masa
+habi1236;compe144;6192;Representa e interpreta una reacción química a partir de la teoría atómico- molecular y la teoría de colisiones y deduce la ley de conservación de la masa
+habi1237;compe144;6193;Ajusta reacciones químicas por distintos métodos
+habi1238;compe144;6194;Dada una reacción química, reconoce de qué tipo es (combinación, descomposición…)
+habi1239;compe144;6195;Resuelve problemas de estequiometría
+habi1240;compe144;6196;Utiliza la teoría de Arrhenius para describir el comportamiento químico de ácidos y bases
+habi1241;compe145;6199;Conoce los beneficios del reciclado de materiales y de adquirir hábitos de consumo que permitan el ahorro de materias primas
+habi1242;compe145;6200;Valora la importancia de la industria química en la sociedad, su importancia en la mejora de la calidad de vida de las personas y su influencia en el medio ambiente
+habi1243;compe146;6206;Justifica el carácter relativo del movimiento y la necesidad de un sistema de  referencia y de vectores para describirlo adecuadamente
+habi1244;compe146;6207;Comprende los conceptos de trayectoria y desplazamiento, y los aplica a casos concretos
+habi1245;compe146;6208;Establece la velocidad de un cuerpo como la relación entre el espacio recorrido y el tiempo invertido en recorrerlo
+habi1246;compe146;6209;Diferencia entre velocidad media e instantánea a partir de gráficas espacio/tiempo y velocidad/tiempo, y deduce el valor de la aceleración utilizando éstas últimas
+habi1247;compe146;6210;Resuelve problemas y elabora e interpreta gráficas, expresando correctamente las relaciones matemáticas que existen entre las magnitudes que definen el movimiento rectilíneo uniforme
+habi1248;compe146;6211;Resuelve problemas y elabora e interpreta gráficas, expresando correctamente las relaciones matemáticas que existen entre las magnitudes que definen el movimiento rectilíneo uniformemente acelerado
+habi1249;compe146;6212;Resuelve problemas y elabora e interpreta gráficas, expresando correctamente las relaciones matemáticas que existen entre las magnitudes que definen el movimiento circular
+habi1250;compe147;6215;Reconoce el papel de las fuerzas como causa de los cambios en el estado de movimiento y de las deformaciones y las representa vectorialmente 6216. Reconoce los tipos de deformaciones en ejemplos cotidianos
+habi1251;compe147;6217;Comprende y explica el papel que juega el rozamiento en la vida cotidiana
+habi1252;compe147;6218;Conoce el papel de las máquinas simples en la transformación de un movimiento en otro diferente, y calcula la reducción de la fuerza que se necesita aplicar
+habi1253;compe147;6219;Distingue entre masa y peso y calcula el valor de la aceleración de la gravedad a partir de la relación entre ambas magnitudes
+habi1254;compe147;6220;Considera la fuerza gravitatoria como la responsable del peso de los cuerpos, de los movimientos orbitales y analiza los factores de los que depende
+habi1255;compe147;6221;Reconoce las distintas fuerzas que aparecen en la naturaleza y los distintos fenómenos asociados a ellas
+habi1256;compe147;6222;Comprende las leyes de Newton y las aplica para interpretar fenómenos cotidianos
+habi1257;compe147;6223;Utiliza el principio fundamental de la dinámica en la resolución de problemas en los que intervienen varias fuerzas
+habi1258;compe147;6224;Valora la relevancia histórica y científica de la ley de la gravitación universal e interpreta su expresión matemática
+habi1259;compe147;6225;Resuelve problemas de caída libre de cuerpos y movimiento orbital aplicando la ley de la gravitación universal
+habi1260;compe147;6226;Reconoce que el efecto de una fuerza no solo depende de su intensidad sino también de la superficie sobre la que actúa
+habi1261;compe147;6227;Interpreta fenómenos naturales y aplicaciones tecnológicas en relación con los principios de la hidrostática, y resuelve problemas aplicando las expresiones matemáticas de los mismos
+habi1262;compe147;6228;Diseña experiencias o dispositivos que ilustren el comportamiento de los fluidos
+habi1263;compe147;6229;Comprende la influencia de la presión atmosférica en la vida cotidiana
+habi1264;compe148;6232;Reconoce que la energía es la capacidad de producir transformaciones o cambios
+habi1265;compe148;6233;Conoce y diferencia las diferentes formas de energía
+habi1266;compe148;6234;Identifica las transformaciones de energía que se producen en actividades cotidianas y en experiencias sencillas realizadas en el laboratorio
+habi1267;compe148;6235;Conoce y compara las diferentes fuentes de energía y su impacto medioambiental
+habi1268;compe148;6236;Explica cómo se genera la electricidad en los diferentes tipos de centrales eléctricas y su transporte a los lugares de consumo
+habi1269;compe148;6237;Comprende el concepto de degradación de la energía y su relación con el de rendimiento energético
+habi1270;compe148;6238;Valora la importancia de realizar un consumo responsable de las fuentes energéticas para un desarrollo sostenible
+habi1271;compe148;6239;Reconoce que el calor y el trabajo son dos formas de transferencia de energía, e identifica situaciones en las que se producen
+habi1272;compe148;6240;Relaciona los conceptos de trabajo y potencia en la resolución de problemas
+habi1273;compe148;6241;Comprende el principio de conservación de la energía mecánica y lo aplica a la resolución de problemas
+habi1274;compe148;6242;Relaciona los conceptos de energía, calor y temperatura en términos de la teoría cinético-molecular y describe los mecanismos por los que se transfiere la energía térmica en diferentes situaciones cotidianas
+habi1275;compe148;6243;Relaciona cualitativa y cuantitativamente el calor con los efectos que produce en los cuerpos: variación de temperatura, cambios de estado y dilatación
+habi1276;compe148;6244;Conoce diferentes escalas termométricas y la equivalencia entre ellas.
+habi1277;compe149;6248;Identifica en experiencias cotidianas o conocidas los principales tipos de ondas y sus características
+habi1278;compe149;6249;Comprende que las ondas transportan energía pero no masa
+habi1279;compe149;6250;Comprende las relaciones entre las magnitudes básicas de una onda
+habi1280;compe149;6251;Diferencia entre los fenómenos de reflexión y refracción de la luz
+habi1281;compe149;6252;Identifica el color de los cuerpos como la interacción de la luz con los mismos.
+habi1282;compe149;6253;Reconoce los fenómenos de eco y reverberación
+habi1283;compe149;6254;Reconoce determinadas aplicaciones tecnológicas del sonido como las ecografías, radares, sonar, etc.
+habi1284;compe149;6255;Reconoce que la información se transmite mediante ondas, a través de diferentes soportes
+habi1285;compe149;6256;Valora el problema de la contaminación acústica y lumínica
+habi1286;compe150;6270;Conoce los tipos de cargas eléctricas, su papel en la constitución de la materia y las características de las fuerzas que se manifiestan entre ellas
+habi1287;compe150;6272;Explica el fenómeno físico de la corriente eléctrica e interpreta el significado de las magnitudes intensidad de corriente, diferencia de potencial, resistencia y potencia, así como las relaciones entre ellas
+habi1288;compe150;6274;Describe la función básica e identifica los distintos componentes de circuitos eléctricos y electrónicos
+habi1289;compe150;6276;Resuelve ejercicios de funcionamiento de circuitos eléctricos
+habi1290;compe150;6278;Comprueba los efectos de la electricidad y las relaciones entre las magnitudes eléctricas mediante el diseño y construcción de circuitos eléctricos y electrónicos sencillos, en el laboratorio o mediante aplicaciones virtuales interactivas
+habi1291;compe150;6280;Justifica cualitativamente fenómenos magnéticos y valora la contribución del magnetismo en el desarrollo tecnológico
+habi1292;compe150;6282;Compara los distintos tipos de imanes, analiza su comportamiento y deduce mediante experiencias las características de las fuerzas magnéticas puestas de manifiesto, así como su relación con la corriente eléctrica
+habi1293;compe101;9000; Respeta las normas básicas de ergonomía 
+habi1294;compe101;9001;Ubica el teclado a la altura correcta 
+habi1295;compe101;9002;Mantiene una postura del cuerpo y de las manos correcta 
+habi1296;compe101;9003; Pone en funcionamiento la PC/ notebook / netbook / Tablet
+habi1297;compe101;9004; Identifica las partes del cuerpo que se utilizan para trabajar con las TIC 
+habi1298;compe101;9005; Comenta la postura que adquieren amigos, familiares, etc, al trabajan con TIC 
+habi1299;compe101;9006; Valora la importancia de cuidar las TIC para conservar su funcionamiento 
+habi1300;compe102;9020; Identifica los elementos que componen las TIC (computadora, tablet, celular) 
+habi1301;compe102;9021; Asocia cada elemento de las TIC a su nombre correspondiente
+habi1302;compe102;9022; Expresa verbalmente las funciones de cada componente TIC 
+habi1303;compe102;9050; Toca indiscriminadamente el teclado o el pulsador y busca el efecto en la pantalla mirándola 
+habi1304;compe102;9051; Toca con un dedo las teclas o pulsador/es 
+habi1305;compe102;9052; Aprieta de forma simultánea dos teclas
+habi1306;compe102;9053; Identifica la barra espaciadora en el teclado 
+habi1307;compe102;9055; Coloca su mano en el ratón y acciona un botón 
+habi1308;compe102;9056; Maneja las teclas de desplazamiento (arriba, abajo, derecha e izquierda) 
+habi1309;compe102;9057; Realiza el doble clic sobre un blanco
+habi1310;compe102;9058; Realiza movimientos del ratón sobre el celular, la tablet o similares 
+habi1311;compe102;9059; Identifica los elementos que conforman el escritorio (iconos, barra de tareas)  
+habi1312;compe102;9060; Identifica los accesos directos de la barra de tareas 
+habi1313;compe102;9061; Ingresa clave de usuario 
+habi1314;compe102;9062; Expresa verbalmente los componentes del escritorio 
+habi1315;compe102;9063; Utiliza y manipula correctamente los iconos del escritorio 
+habi1316;compe102;9066; Manipula adecuadamente las ventanas minimizar, maximizar y cerrar
+habi1317;compe102;9067; Utiliza la barra de desplazamiento
+habi1318;compe102;9068; Distingue las funciones de los botones de una ventana 
+habi1319;compe103;9100;Carga el procesador de textos 
+habi1320;compe103;9102;Crea un documento nuevo 
+habi1321;compe103;9104;Abre un documento ya creado 
+habi1322;compe103;9106;Reconoce el menú, barras, área de trabajo. 
+habi1323;compe103;9108;Inserta y edita un documento. 
+habi1324;compe103;9109;Inserta caracteres y símbolos especiales
+habi1325;compe103;9110;Corta un texto 
+habi1326;compe103;9111;Copia un texto 
+habi1327;compe103;9112;Pega un texto 
+habi1328;compe103;9113;Deshace una tarea 
+habi1329;compe103;9114;Busca y reemplaza textos 
+habi1330;compe103;9115;Realiza una revisión ortográfica y gramatical 
+habi1331;compe103;9116;Realiza la autocorreción del documento 
+habi1332;compe103;9117;Revisa sinónimos 
+habi1333;compe103;9118;Incluye notas a pie y notas al final 
+habi1334;compe103;9119;Inserta hipervículos en el documento 
+habi1335;compe103;9120;Da formato a un documento con diferentes tipos y tamaños de letras 
+habi1336;compe103;9121;Define interlineado, espaciado y la alineación de los párrafos 
+habi1337;compe103;9122;Configura y diseña las páginas 
+habi1338;compe103;9123;Establece bordes y fondos de página 
+habi1339;compe103;9124;Inserta viñetas, numeraciones y esquemas 
+habi1340;compe103;9125;Inserta un salto de sección 
+habi1341;compe103;9126;Maneja la herramienta de Estilos 
+habi1342;compe103;9127;Guarda un documento con diferentes opciones 
+habi1343;compe103;9128;Gestiona documentos con plantillas 
+habi1344;compe103;9129;Imprime un documento 
+habi1345;compe103;9130;Maneja las tabulaciones 
+habi1346;compe103;9131;Crea y configura una tabla 
+habi1347;compe103;9132;Inserta imágenes y elementos gráficos 
+habi1348;compe103;9133;Sabe utilizar fórmulas matemáticas 
+habi1349;compe103;9134;Inserta encabezamiento y pies de página 
+habi1350;compe103;9136;Incluye un índice de contenidos 
+habi1351;compe103;9137;Incluye índices de tablas e ilustraciones 
+habi1352;compe103;9138;Incluye referencias cruzadas 
+habi1353;compe103;9139;Crea un índice terminológico 
+habi1354;compe103;9140;Diseña formularios 
+habi1355;compe103;9141;Gestiona macros 
+habi1356;compe103;9142;Inserta la fecha actual como campo 
+habi1357;compe103;9144;Adquiere velocidad tecleando en la computadora 
+habi1358;compe104;9200;Crea una base de datos 
+habi1359;compe104;9202;Introduce y modifica los datos 
+habi1360;compe104;9204;Edita una tabla existente 
+habi1361;compe104;9206;Presenta adecuadamente los datos en las tablas 
+habi1362;compe104;9208;Añade campos a una tabla en la vista hoja de datos 
+habi1363;compe104;9209;Añade campos a una tabla en la vista diseño 
+habi1364;compe104;9210;Especifica las propiedades de los datos 
+habi1365;compe104;9211;Ordena y filtra registros en la vista hoja de datos 
+habi1366;compe104;9213;Importa y exporta tablas 
+habi1367;compe104;9214;Relaciona tablas 
+habi1368;compe104;9215;Consulta datos de las tablas 
+habi1369;compe104;9218;Consulta tablas combinadas 
+habi1370;compe104;9219;Conoce el lenguaje SQL 
+habi1371;compe104;9220;Diseña formularios 
+habi1372;compe104;9222;Maneja subformularios 
+habi1373;compe104;9224;Crea informes sencillos 
+habi1374;compe104;9225;Modifica informes sencillos 
+habi1375;compe104;9226;Conoce la programación de macros 
+habi1376;compe105;9150;Crea, guarda y recupera una planilla de cálculo 
+habi1377;compe105;9151;Introduce datos en una planilla de cálculo 
+habi1378;compe105;9152;Opera con una hoja de cálculo 
+habi1379;compe105;9153;Cambia el aspecto de una hoja de cálculo 
+habi1380;compe105;9154;Incluye fórmulas y funciones 
+habi1381;compe105;9155;Incluye referencias relativas, absolutas, mixtas y externas 
+habi1382;compe105;9157;Clasifica datos siguiendo criterios 
+habi1383;compe105;9158;Crea gráficos 
+habi1384;compe105;9159;Modifica la apariencia de un gráfico 
+habi1385;compe105;9160;Realiza gráficos en 3D 
+habi1386;compe105;9161;Imprime un documento 
+habi1387;compe106;9400;Diseña diapositivas 
+habi1388;compe106;9402;Organiza las diapositivas 
+habi1389;compe106;9404;Visualiza una presentación 
+habi1390;compe106;9406;Incluye en las diapositivas películas y sonidos 
+habi1391;compe106;9408;Cambia el aspecto de la presentación 
+habi1392;compe106;9410;Incluye efectos de animación 
+habi1393;compe106;9412;Guarda e imprime una presentación 
+habi1394;compe107;9300;Identifica el programa de dibujo en el escritorio 
+habi1395;compe107;9302;Reconoce la barra de herramientas, la barra de colores y el resto de barras 
+habi1396;compe107;9304;Expresa verbalmente las funciones de la barra de herramientas, de colores y de desplazamiento 
+habi1397;compe107;9306;Maneja correctamente el ratón y el dedo/puntero sobre la pantalla 
+habi1398;compe107;9308;Percibe, identifica y reconoce el bote de pintura, la brocha y el spray en la barra de herramientas 
+habi1399;compe109;9500;Instala y ejecuta Scratch 
+habi1400;compe109;9502;Mueve un objeto 
+habi1401;compe109;9504;Cambia los atributos del Sprite 
+habi1402;compe109;9506;Utiliza las variables propias del  Scratch 
+habi1403;compe109;9508;Agrega bloques de códigos 
+habi1404;compe109;9510;Guarda el proyecto 
+habi1405;compe109;9512;Se une a la comunidad global del Scratch 
+habi1406;compe109;9514;Corre la aplicación de Scratch en  Escenario 
+habi1407;compe109;9516;Genera nuevos Sprites con Editor de  Pinturas 
+habi1408;compe109;9518;Añade efectos sonoros 
+habi1409;compe109;9520;Añade disfraces 
+habi1410;compe109;9522;Crea Pilas con diversos Bloques 
+habi1411;compe109;9524;Añade notas a los proyectos 
+habi1412;compe109;9526;Utiliza bloques de Movimiento 
+habi1413;compe109;9528;Utiliza bloques de Apariencia 
+habi1414;compe109;9530;Utiliza bloques de Sonido 
+habi1415;compe109;9532;Utiliza bloques de Lápiz 
+habi1416;compe109;9534;Utiliza bloques de Control para iniciar la ejecución de un Script 
+habi1417;compe109;9536;Utiliza bloques de Sensores 
+habi1418;compe109;9538;Utiliza bloques de Operadores 
+habi1419;compe109;9540;Utiliza bloques de Variables 
+habi1420;compe109;9542;Añade un fondo al Escenario 
+habi1421;compe109;9544;Trabaja con variables locales y globales 
+habi1422;compe109;9546;Utiliza variables como un medio de guardar y recuperar datos 
+habi1423;compe109;9548;Programa acciones de suma, resta, multiplicación y división 
+habi1424;compe109;9550;Genera aplicaciones usando números al azar y comparación 
+habi1425;compe109;9552;Configura bucles e implementar condicional lógica de programación 
+habi1426;compe109;9554;Conoce como enviar y recibir mensajes entre sprites 
+habi1427;compe110;9600;Distingue entre máquina, automatismo y robot 
+habi1428;compe110;9602;Valora las implicaciones sociales y éticas de la utilización de robots tanto en la industria como en la vida cotidiana 
+habi1429;compe110;9604;Identifica los componentes de un robot 
+habi1430;compe110;9606;Diferencia entre los distintos sistemas de control 
+habi1431;compe110;9608;Conoce e identificar los distintos sensores que transmiten información a un sistema de control 
+habi1432;compe110;9610;Monta automatismos sencillos 
+habi1433;compe110;9612;Conoce las aplicaciones de los robots en la industria 
+habi1434;compe111;5004;Percibe e identifica el silencio y los sonidos 
+habi1435;compe111;5006;Identifica, clasifica y describe las cualidades de los sonidos del entorno natural y social 
+habi1436;compe111;5008;Diferencia las cualidades del sonido 
+habi1437;compe111;5010;Reproduce silencios, sonidos y sus cualidades con diferentes objetos o instrumentos y la propia voz 
+habi1438;compe111;5012;Elige ambientes sonoros agradables 
+habi1439;compe112;5029;Percibe la pulsación de la música y ritmos sencillos en canciones conocidas 
+habi1440;compe112;5032;Usa distintos tipos de instrumentos para experimentar con la pulsación y el ritmo 
+habi1441;compe112;5034;Improvisa partiendo de un esquema rítmico 
+habi1442;compe112;5036;Conoce vocabulario musical 
+habi1443;compe112;5038;Representa gráficamente la pulsación de una música usando grafías convenidas 
+habi1444;compe112;5040;Lee notas musicales 
+habi1445;compe112;5042;Reconoce en una partitura los diferentes signos de la notación musical 
+habi1446;compe112;5043;Utiliza grafías y notas de escritura musical 
+habi1447;compe112;5046;Reconoce melodías en obras musicales 
+habi1448;compe112;5048;Identifica elementos rítmicos 
+habi1449;compe112;5050;Reconoce y aplica los ritmos y compases a través de la lectura o la audición de pequeñas obras 
+habi1450;compe112;5052;Conoce formas musicales básicas 
+habi1451;compe112;5054;Reconoce elementos formales en una obra musical 
+habi1452;compe112;5056;Lee, inventa y escribe notaciones musicales de esquemas rítmicos 
+habi1453;compe112;5058;Lee la partitura de una canción como apoyo a la audición 
+habi1454;compe112;5060;Realiza dictados musicales 
+habi1455;compe112;5062;Utiliza el lenguaje musical para interpretar obras 
+habi1456;compe112;5064;Traduce al lenguaje musical convencional melodías y ritmos sencillos 
+habi1457;compe112;5066;utiliza las TIC para el estudio del lenguaje musical
+habi1458;compe113;5082;Acompaña, con elementos de percusión, alguna canción 
+habi1459;compe113;5084;Improvisa con un instrumento sonidos, silencios y ritmos 
+habi1460;compe113;5086;Conoce e identifica instrumentos de percusión 
+habi1461;compe113;5088;Conoce e identifica instrumentos de viento 
+habi1462;compe113;5090;Conoce e identifica instrumentos de cuerda 
+habi1463;compe113;5092;Reconoce y clasifica instrumentos electrónicos 
+habi1464;compe113;5094;Construye instrumentos musicales 
+habi1465;compe113;5096;Reconoce y clasifica instrumentos sólo por su sonido 
+habi1466;compe113;5098;Conoce distintos tipos de agrupaciones instrumentales 
+habi1467;compe113;5099;Relaciona las cualidades de los instrumentos con su función dentro de una agrupación musical 
+habi1468;compe113;5107;Interpreta piezas musicales 
+habi1469;compe113;5108;Mantiene una postura corporal apropiada mientras toca un instrumento musical 
+habi1470;compe113;5122;Participa en la orquesta escolar, respeta sus normas y muestra ánimo ante las dificultades musicales 
+habi1471;compe113;5123;Percibe y manifiesta diferentes estados afectivos y emocionales provocados por la música 
+habi1472;compe114;5130;Experimenta con las posibilidades de la voz 
+habi1473;compe114;5132;Improvisa con la voz sonidos, silencios y ritmos 
+habi1474;compe114;5134;Practica los parámetros vocales (respiración, articulación, resonancia, entonación …) 
+habi1475;compe114;5136;Reconoce y describe las cualidades de la voz a través de audiciones 
+habi1476;compe114;5138;Desarrolla y aplica habilidades y técnicas para mejorar su interpretación vocal 
+habi1477;compe114;5140;Realiza audiciones y da una respuesta tonal por imitación, en forma de eco y ostinato 
+habi1478;compe114;5142;Conoce distintos tipos de agrupaciones vocales 
+habi1479;compe114;5144;Aprende canciones y las interpreta, individual o colectivamente, mostrando interés en la afinación, el ritmo y el comportamiento vocal 
+habi1480;compe114;5146;Percibe y manifiesta diferentes estados afectivos y emocionales provocados por la modulación de la voz humana 
+habi1481;compe115;5166;Escucha atentamente canciones, obras musicales o fragmentos 
+habi1482;compe115;5168;Respeta las producciones musicales ejecutadas por personas conocidas o desconocidas 
+habi1483;compe115;5170;Se interesa por conocer canciones propias de su cultura 
+habi1484;compe115;5172;Conoce y clasifica diferentes tipos de canciones 
+habi1485;compe115;5174;Reconoce canciones y fragmentos de obras musicales conocidas 
+habi1486;compe115;5176;Se interesa por descubrir obras musicales de diferentes características, y las utiliza como marco de referencia para sus creaciones 
+habi1487;compe115;5178;Conoce o interpreta piezas vocales e instrumentales de distintos lugares, épocas y estilos, valorando su aportación al enriquecimiento personal, social y cultural 
+habi1488;compe115;5180;Sitúa una obra musical en las coordenadas de espacio y tiempo 
+habi1489;compe115;5182;Reconoce y compara los rasgos distintivos de obras musicales y los describe utilizando una terminología adecuada 
+habi1490;compe115;5184;Analiza y emite una valoración de una obra musical 
+habi1491;compe115;5186;Conoce y observa las normas de comportamiento en audiciones y representaciones musicales 
+habi1492;compe115;5188;Comprende y respeta las normas que regulan la propiedad intelectual en cuanto a reproducción y copia de obras musicales 
+habi1493;compe116;5208;Asocia sonidos a gestos rítmicos y mímicos 
+habi1494;compe116;5210;Sigue, con el movimiento del cuerpo o con instrumentos de percusión, la regularidad de la música 
+habi1495;compe116;5212;Ejecuta movimientos libres y espontáneos siguiendo el ritmo de una música 
+habi1496;compe116;5214;Explora las posibilidades expresivas de su cuerpo a través de la improvisación y la coordinación de movimientos en juegos y danzas 
+habi1497;compe116;5216;Potencia su cuerpo como instrumento de expresión y comunicación y adquiere confianza en las propias posibilidades 
+habi1498;compe116;5218;Controla la postura y la coordinación con la música cuando danza 
+habi1499;compe116;5220;Interpreta danzas tradicionales sencillas 
+habi1500;compe116;5222;Conoce danzas de distintas épocas y lugares valorando su aportación al patrimonio artístico y cultural 
+habi1501;compe116;5224;Baila en pareja y en grupo, coordinando los movimientos 
+habi1502;compe116;5226;Inventa e interpreta coreografías adecuando su concepción al carácter expresivo de la obra 
+habi1503;compe117;5246;Identifica los recursos específicos del lenguaje sonoro empleados en la construcción de la banda sonora de una producción audiovisual 
+habi1504;compe117;5248;Selecciona y utiliza recursos tecnológicos para diferentes aplicaciones musicales 
+habi1505;compe117;5250;Sabe buscar y seleccionar fragmentos musicales adecuados para sonorizar secuencias de imágenes 
+habi1506;compe117;5252;Elabora la banda sonora de un producto audiovisual mediante aplicaciones digitales 
+habi1507;compe117;5254;Identifica las prestaciones técnicas de los diversos micrófonos y accesorios necesarios en proyectos audiovisuales y de espectáculos 
+habi1508;compe118;5280;Identifica en un objeto sus elementos visuales básicos (forma, color, tamaño y volumen) 
+habi1509;compe118;5282;Discrimina la totalidad de un objeto y sus partes 
+habi1510;compe118;5284;Identifica en el entorno formas figurativas y abstractas 
+habi1511;compe118;5286;Distingue las formas del entorno y reconoce los cambios que se producen al modificar la distancia del punto de observación 
+habi1512;compe118;5288;Analiza imágenes del entorno y obras artísticas, valorando sus cualidades estéticas y disfrutando con su contemplación 
+habi1513;compe118;5290;Distingue el tema o género de obras plásticas 
+habi1514;compe118;5312;Observa los elementos del lenguaje visual y plástico en ilustraciones, carteles, reproducciones de obras de arte y fotografías 
+habi1515;compe118;5314;Conoce obras visuales de su entorno (pinturas, esculturas, dibujos…) 
+habi1516;compe118;5316;Reconoce, respeta y valora las manifestaciones artísticas más importantes del patrimonio cultural y artístico del país 
+habi1517;compe118;5318;Aprecia y disfruta las posibilidades que ofrecen los museos de conocer las obras de arte que en ellos se exponen 
+habi1518;compe118;5320;Conoce alguna de las profesiones de los ámbitos artísticos y se interesa por las características del trabajo de los artistas y artesanos 
+habi1519;compe118;5322;Elige ambientes estéticamente agradables 
+habi1520;compe118;5324;Aplica recursos básicos del lenguaje plástico visual y busca nuevas formas personales de expresión artística 
+habi1521;compe118;5326;Comprende y emplea diferentes niveles de iconicidad de la imagen gráfica 
+habi1522;compe118;5328;Reflexiona y comenta el proceso creativo propio y ajeno desde la idea inicial hasta la ejecución definitiva 
+habi1523;compe119;5348;Utiliza el punto, la línea y el plano para representar el entorno próximo y el imaginario 
+habi1524;compe119;5350;Experimenta con el concepto de línea mediante las técnicas de desgarrar, cortar, pinchar o plegar 
+habi1525;compe119;5352;Experimenta con el punto, la línea y el plano con el concepto de ritmo 
+habi1526;compe119;5354;Experimenta con el valor expresivo de la línea y el punto y sus posibilidades tonales (dureza y posición del lápiz, la presión ejercida …) 
+habi1527;compe119;5356;Identifica y valora la importancia del punto, la línea y el plano analizando de manera oral y escrita imágenes y producciones gráfico- plásticas propias y ajenas 
+habi1528;compe119;5358;Experimenta y percibe la transparencia y opacidad de objetos y materiales, en contraste con la luz 
+habi1529;compe119;5360;Identifica las cualidades de la luz en los tonos claros-oscuros 
+habi1530;compe119;5362;Aplica mezclas con colores, más el blanco o el negro, para conseguir tonos más claros u oscuros 
+habi1531;compe119;5364;Clasifica y ordena los colores primarios (magenta, cian y amarillo) y secundarios (verde, violeta y rojo) en el círculo cromático y los utiliza con sentido en sus obras 
+habi1532;compe119;5366;Experimenta con los colores primarios y secundarios estudiando la síntesis aditiva y sustractiva y los colores complementarios 
+habi1533;compe119;5368;Realiza modificaciones del color y sus propiedades aplicando las TIC 
+habi1534;compe119;5370;Conoce la simbología de los colores fríos y cálidos y aplica dichos conocimientos para transmitir diferentes sensaciones en las composiciones plásticas que realiza 
+habi1535;compe119;5372;Observa tonalidades del entorno natural y las reproduce mediante la pintura 
+habi1536;compe119;5374;Distingue y explica las características del color, en cuanto a su luminosidad, tono y saturación, aplicándolas con un propósito concreto en sus producciones 
+habi1537;compe119;5376;Analiza y compara las texturas naturales y artificiales, así como las texturas visuales y táctiles y realiza trabajos artísticos utilizando estos conocimientos 
+habi1538;compe119;5378;Conoce posibilidades expresivas de algunos materiales por su color, forma, textura, posición, contraste de luces y sombras, etc. 
+habi1539;compe119;5380;Realiza composiciones que transmiten emociones básicas (calma, violencia, libertad, opresión, alegría, tristeza, etc.) utilizando distintos recursos gráficos en cada caso (claroscuro, líneas, puntos, texturas, colores…) 
+habi1540;compe120;5400;Reconoce el fondo y la forma de un objeto o imagen 
+habi1541;compe120;5402;Reconoce objetos simples en diferentes posiciones 
+habi1542;compe120;5404;Establece relaciones entre formas por contraste, asociación o analogía 
+habi1543;compe120;5406;Traza, utilizando la escuadra y el cartabón, rectas paralelas y perpendiculares 
+habi1544;compe120;5408;Utiliza la regla considerando el milímetro como unidad de medida habitual aplicada al dibujo técnico 
+habi1545;compe120;5410;Suma y resta segmentos utilizando la regla y el compás 
+habi1546;compe120;5412;Traza círculos con el compás conociendo el radio 
+habi1547;compe120;5414;Divide la circunferencia en dos, tres, cuatro o seis partes iguales, utilizando los materiales propios del dibujo técnico 
+habi1548;compe120;5416;Aplica la división de la circunferencia a la construcción de estrellas y elementos florales que posteriormente colorea 
+habi1549;compe120;5418;Suma y resta ángulos utilizando la escuadra y el cartabón 
+habi1550;compe120;5420;Continúa series con motivos geométricos (rectas y curvas) utilizando una cuadrícula e instrumentos propios del dibujo técnico 
+habi1551;compe120;5422;Confecciona cenefas interrelacionando formas y colores en seriación y alternancia 
+habi1552;compe120;5424;Identifica en una obra bidimensional formas geométricas simples
+habi1553;compe120;5426;Analiza la realidad descomponiéndola en formas geométricas básicas y trasladando la misma a composiciones bidimensionales 
+habi1554;compe120;5428;Realiza composiciones utilizando formas geométricas básicas sugeridas por el profesor 
+habi1555;compe120;5430;Cambia la escala de un dibujo sencillo mediante el uso de una cuadrícula 
+habi1556;compe121;5450;Representa, manteniendo las proporciones, objetos aislados o agrupados del natural o del entorno inmediato 
+habi1557;compe121;5452;Conoce las reglas básicas de la composición en las artes visuales 
+habi1558;compe121;5454;Analiza y explica el esquema compositivo básico de obras plásticas atendiendo a los conceptos de equilibrio, proporción y ritmo 
+habi1559;compe121;5456;Organiza el espacio de sus producciones bidimensionales utilizando conceptos básicos de composición, equilibrio y proporción 
+habi1560;compe121;5458;Identifica los conceptos de horizontalidad y verticalidad utilizándolos en sus composiciones con fines expresivos 
+habi1561;compe121;5460;Elabora carteles cuidando el tamaño, equilibrio, proporción, color, tipografía… 
+habi1562;compe121;5462;Muestra interés por descubrir imágenes ocultas en composiciones plásticas 
+habi1563;compe122;5482;Conoce las posibilidades de utilización de diferentes materiales y utensilios plásticos y su conservación 
+habi1564;compe122;5484;Organiza y planea su propio proceso creativo (idea, recogida de información, bocetos, materiales, …) 
+habi1565;compe122;5486;Modifica un trabajo añadiendo o suprimiendo elementos 
+habi1566;compe122;5488;Ejercita habilidades motrices para el dominio y precisión en el trazo 
+habi1567;compe122;5490;Reproduce, mediante el dibujo, rasgos esenciales de objetos a partir de la observación directa 
+habi1568;compe122;5492;Experimenta con las témperas aplicando la técnica de diferentes formas (pinceles, esponjas, grado de humedad, estampaciones…) 
+habi1569;compe122;5494;Utiliza el modelado para la creación de volúmenes 
+habi1570;compe122;5496;Crea composiciones básicas con diferentes técnicas, aplicando procesos creativos sencillos 
+habi1571;compe122;5498;Realiza composiciones abstractas con diferentes técnicas gráficas para expresar sensaciones por medio del uso del color 
+habi1572;compe122;5500;Utiliza el papel como material para crear composiciones sencillas 
+habi1573;compe123;5520;Utiliza diversas técnicas de dibujo y con diferentes funciones 
+habi1574;compe123;5522;Elabora grafismos detallados, figurativos o no figurativos 
+habi1575;compe123;5524;Secuencia una historia en diferentes viñetas en las que incorpora imágenes y textos siguiendo el patrón de un cómic 
+habi1576;compe123;5526;Confecciona obras tridimensionales, estáticas o móviles, con diferentes materiales 
+habi1577;compe123;5528;Utiliza el papel como material para crear composiciones (abstractas o figurativas), figuras tridimensionales … 
+habi1578;compe123;5530;Usa materiales con formas, texturas y colores diversos para la elaboración de un collage 
+habi1579;compe123;5532;Realiza composiciones modulares con diferentes procedimientos gráfico-plásticos en aplicaciones al diseño textil, ornamental, arquitectónico o decorativo 
+habi1580;compe123;5534;Conoce y aplica métodos creativos para la elaboración de diseños gráficos, diseños de producto, moda y sus múltiples aplicaciones 
+habi1581;compe123;5536;Recicla materiales para la elaboración de obras, aprovechando sus cualidades gráfico – plásticas 
+habi1582;compe123;5538;Realiza murales aplicando diferentes técnicas 
+habi1583;compe123;5540;Utiliza las TIC para realizar creaciones plásticas 
+habi1584;compe124;5560;Reconoce en su entorno imágenes fijas y en movimiento y las clasifica 
+habi1585;compe124;5562;Analiza imágenes fijas atendiendo al tamaño, formato, elementos básicos (puntos, rectas, planos, colores, iluminación, función…) 
+habi1586;compe124;5564;Conoce el papel que ha jugado la tecnología en la evolución de la fotografía 
+habi1587;compe124;5566;Reconoce el tema de una fotografía 
+habi1588;compe124;5568;Realiza fotografías teniendo en cuenta el encuadre, iluminación… 
+habi1589;compe124;5570;Observa los elementos del lenguaje visual en imágenes móviles (televisión y cine) 
+habi1590;compe124;5572;Describe mensajes audiovisuales breves y sencillos 
+habi1591;compe124;5574;Conoce el proceso empleado para la creación, montaje y difusión de una película de animación 
+habi1592;compe124;5576;Realiza sencillas obras de animación para familiarizarse con los conceptos elementales de la creación audiovisual: guión, realización, montaje, sonido 
+habi1593;compe124;5578;Maneja programas informáticos sencillos de elaboración y retoque de imágenes digitales 
+habi1594;compe124;5580;Conoce las consecuencias de la difusión de imágenes sin autorización y respeta los derechos de autor
+habi1595;compe125;5700;Elige y usa diferentes técnicas de movimiento para exteriorizar y comunicar sensaciones, sentimientos e ideas, adaptándose a las circunstancias dadas 
+habi1596;compe125;5702;Demuestra flexibilidad en los movimientos incorporando niveles, velocidad, intensidad y direcciones diferentes en las actividades de movimiento 
+habi1597;compe125;5703;Muestra desinhibición y espontaneidad en las actividades de movimiento 
+habi1598;compe125;5704;Domina el espacio en las improvisaciones y en los juegos escénicos 
+habi1599;compe125;5706;Emplea una articulación y dicción claras 
+habi1600;compe125;5708;Proyecta la voz apropiadamente
+habi1601;compe125;5710;Elige y utiliza técnicas de voz y efectos vocales adecuados en respuesta a una interpretación y a unas circunstancias concretas 
+habi1602;compe125;5712;Realiza correctamente la lectura dramatizada de textos 
+habi1603;compe126;5732;Crea personajes a partir de la observación de personas, personajes de películas, de la TV o imágenes 
+habi1604;compe126;5734;Realiza representaciones dramáticas personificando objetos del entorno 
+habi1605;compe126;5736;Recurre a la memoria emocional para representar gestos y expresiones con el cuerpo, la voz, el movimiento y hacer uso del espacio 
+habi1606;compe126;5738;Utiliza otros lenguajes teatrales para complementar al lingüístico en la dramatización 
+habi1607;compe126;5740;Elige formas dramáticas y medios teatrales adecuados para representar ideas, experiencias, sentimientos, pensamientos y creencias 
+habi1608;compe126;5742;Aplica convenciones teatrales para la caracterización de personajes 
+habi1609;compe126;5744;Teatraliza textos no dramáticos (poemas, relatos, canciones, imágenes, noticias …) 
+habi1610;compe127;5746;Conoce elementos básicos del juego dramático (personajes, trama, espacio, tiempo …) 
+habi1611;compe127;5748;Reconoce y diferencia los diversos estilos y formas de teatro 
+habi1612;compe127;5750;Adquiere criterios para comprender cómo han cambiado las manifestaciones teatrales a lo largo del tiempo y cómo se relacionan con otros ámbitos (ciencia, religión, sociedad, arte) 
+habi1613;compe127;5752;Analiza la estructura de un texto teatral literario (conflictos, acciones, tensiones, progresión dramática …) 
+habi1614;compe127;5754;Valora críticamente textos teatrales 
+habi1615;compe127;5756;Realiza la adaptación de un texto u obra dramática corta 
+habi1616;compe127;5758;Elabora, individual o colectivamente, textos dramáticos 
+habi1617;compe128;5776;Conoce elementos que forman parte de una puesta en escena 
+habi1618;compe128;5778;Planifica colectiva e individualmente las fases del proceso de realización de una obra dramática 
+habi1619;compe128;5780;Adopta diferentes roles teatrales (autor, actor, escenógrafo, crítico) 
+habi1620;compe128;5782;Confecciona decorados 
+habi1621;compe128;5784;Diseña y realiza disfraces 
+habi1622;compe128;5786;Integra, en la puesta en escena, recursos escenográficos de diferente índole: luces, decorados, vestimenta, música... 
+habi1623;compe128;5788;Se adiestra en técnicas de títeres y de teatro de animación 
+habi1624;compe128;5790;Inventa una situación dramática, la escribe, interpreta y realiza el montaje escénico 
+habi1625;compe128;5792;Analiza espectáculos y otras manifestaciones escénicas 
+habi1626;compe108;9312;Maneja el lector de pantalla NVDA
+habi1627;compe108;9314;Convierte textos en audios o braille
+habi1628;compe108;9316;Sabe descargar y leer libros digitales
+habi1629;compe108;9318;Conoce bibliotecas digitales según sus intereses
+habi1630;compe108;9320;Utiliza los audiolibros para su disfrute
+habi1631;compe108;9321;Utiliza el movil/tableta como una lupa
+habi1632;compe108;9322;Utiliza el movil/tableta como ver desde lejos (Binocular, prismático)
+habi1633;compe108;9323;Maneja un asistente virtual con la voz
+habi1634;compe108;9324;Utiliza una app para activar la audiodescripción
+habi1635;compe108;9325;Utiliza una app para detecta el color de los objetos
+habi1636;compe108;9326;Utiliza una app para amplificar el sonido y escuchar mejor las conversaciones
+habi1637;compe108;9330; Utiliza el celular para reconocer objetos
+habi1638;compe108;9332;Movilidad en los edificios
+habi1639;compe108;9334;Utiliza un bastón de ciego con navegador
+habi1640;compe108;9337;Utiliza software para detectar la presencia o ausencia de luz

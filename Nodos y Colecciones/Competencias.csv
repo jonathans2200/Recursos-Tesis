@@ -1,0 +1,152 @@
+﻿codigo;codigo_bloque;nombre
+compe1;bloque1;Estimulación visual
+compe2;bloque1;Estimulación auditiva
+compe3;bloque1;Estimulación táctil
+compe4;bloque1;Estimulación olfativa y respiratoria 
+compe5;bloque1;Estimulación gustativa
+compe6;bloque1;Estimulación psicomotora
+compe7;bloque1;Estimulación comunicativa
+compe8;bloque2;Psicomotricidad, percepción, atención, funciones ejecutivas (nivel 1)
+compe9;bloque2;Psicomotricidad, percepción, atención, funciones ejecutivas (nivel 2)
+compe10;bloque2;Psicomotricidad, percepción, atención, funciones ejecutivas (nivel 3)
+compe11;bloque2;Memoria
+compe12;bloque3;Aseo personal
+compe13;bloque3;Atención a la salud 
+compe14;bloque3;Relaciones afectivas y sexuales
+compe15;bloque4;Socialización (nivel 1)
+compe16;bloque4;Socialización (nivel 2)
+compe17;bloque4;Relaciones interpersonales
+compe18;bloque4;Relaciones en grupo
+compe19;bloque4;Educación en valores
+compe20;bloque4;Emociones
+compe21;bloque4;Acoso escolar, seguridad en la red y adicciones
+compe22;bloque5;En el comedor
+compe23;bloque5;En el hogar
+compe24;bloque5;En la escuela
+compe25;bloque5;En los espacios públicos
+compe26;bloque5;Uso de los servicios de la comunidad
+compe27;bloque5;Economía doméstica
+compe28;bloque5;Situaciones y señales de peligro
+compe29;bloque6;Hábitos de trabajo y estudio
+compe30;bloque6;Juegos y deportes
+compe31;bloque6;Aficiones
+compe32;bloque7;Hablar: hacia las primeras palabras
+compe33;bloque7;Hablar: inicio del desarrollo gramatical
+compe34;bloque7;Seguir instrucciones
+compe35;bloque7;Comprender
+compe36;bloque7;Expresar
+compe37;bloque7;Conversar
+compe38;bloque8;1ª Etapa. Desarrollo perceptivo-discriminativo
+compe39;bloque8;2ª Etapa. Percepción global y reconocimiento de palabras escritas
+compe40;bloque8;3ª Etapa. Aprendizaje y reconocimiento de las sílabas
+compe41;bloque8;4ª Etapa. Progreso en la lectura
+compe42;bloque9;Preescritura
+compe43;bloque9;Escritura copiada
+compe44;bloque9;Escritura al dictado
+compe45;bloque9;Escritura espontánea
+compe46;bloque9;Ortografía
+compe47;bloque10;Morfología
+compe48;bloque10;Sintaxis
+compe49;bloque10;Lexicología y semántica
+compe50;bloque10;Fonología
+compe51;bloque12;Nivel 1
+compe52;bloque12;Nivel 2
+compe53;bloque12;Nivel 3
+compe54;bloque12;Nivel 4
+compe55;bloque13;Contar, escribir y leer números
+compe56;bloque13;Comparar y agrupar
+compe57;bloque13;Ordinales
+compe58;bloque13;Valor posicional (unidades, decenas, centenas,etc.)
+compe59;bloque13;Hacer series
+compe60;bloque13;Los números
+compe61;bloque14;Sumas y restas
+compe62;bloque14;Multiplicación y división
+compe63;bloque14;Fracciones, decimales y porcentajes
+compe64;bloque14;Exponenciales y radicales
+compe65;bloque14;Operaciones combinadas
+compe66;bloque14;Operaciones con calculadora
+compe67;bloque14;Estrategias de resolución de problemas. Juegos matemáticos
+compe68;bloque14;Expresiones algebraicas. Ecuaciones. Funciones
+compe69;bloque15;Puntos, líneas, segmentos y planos
+compe70;bloque15;Ángulos
+compe71;bloque15;Polígonos
+compe72;bloque15;Triángulos
+compe73;bloque15;Circunferencias y círculos
+compe74;bloque15;Geometría plana y áreas
+compe75;bloque15;Geometría espacial y volúmenes
+compe76;bloque15;Situaciones en el espacio y en el plano
+compe77;bloque16;La medida. Instrumentos de medida
+compe78;bloque16;Medidas de longitud
+compe79;bloque16;Medidas de masa
+compe80;bloque16;Medidas de capacidad
+compe81;bloque16;Medidas de superficie
+compe82;bloque16;Medidas de volumen
+compe83;bloque16;Medidas de ángulos
+compe84;bloque16;Medidas de tiempo
+compe85;bloque16;Unidades monetarias
+compe86;bloque16;El Sistema Internacional de Unidades. Equivalencias
+compe87;bloque17;Población, muestra y variables estadísticas
+compe88;bloque17;Frecuencias y tablas
+compe89;bloque17;Gráficos estadísticos
+compe90;bloque17;Parámetros estadísticos
+compe91;bloque17;Probabilidad
+compe92;bloque18;Conociendo el entorno próximo
+compe93;bloque18;Investigando el entorno
+compe94;bloque19;Geografía física
+compe95;bloque19;Geografía humana
+compe96;bloque19;Historia
+;;
+;;
+;;
+;;
+compe101;bloque22;Ergonomía
+compe102;bloque22;Teclado, ratón, tablet, pulsador,
+compe103;bloque23;Procesador de textos
+compe104;bloque23;Gestor de base de datos
+compe105;bloque23;Hoja o planilla de cálculo
+compe106;bloque23;Diseñar presentaciones
+compe107;bloque23;Dibujar con la computadora
+compe108;bloque23;Otros software de aplicación
+compe109;bloque24;Programar con Scratch y Scratch Jr
+compe110;bloque24;Robótica
+compe111;bloque25;El sonido y sus cualidades
+compe112;bloque25;Lenguaje musical
+compe113;bloque25;Los instrumentos musicales y las agrupaciones instrumentales
+compe114;bloque25;La voz y las agrupaciones vocales
+compe115;bloque25;Géneros o familias musicales
+compe116;bloque25;Música, movimiento y danza
+compe117;bloque25;Música y tecnología
+compe118;bloque26;El lenguaje visual
+compe119;bloque26;Elementos de la imagen: línea, color, textura
+compe120;bloque26;Forma y geometría
+compe121;bloque26;La composición
+compe122;bloque26;Técnicas artísticas bidimensionales y tridimensionales: nivel 1
+compe123;bloque26;Técnicas artísticas bidimensionales y tridimensionales: nivel 2
+compe124;bloque26;Fotografía, televisión y cine
+compe125;bloque27;Expresión corporal y oral
+compe126;bloque27;Improvisación
+compe127;bloque27;El texto dramático: composición, análisis y valoración
+compe128;bloque27;Montajes
+compe129;bloque20;El universo y el sistema solar. La Tierra como planeta
+compe130;bloque20;Los materiales terrestres: minerales y rocas
+compe131;bloque20;Modelado del relieve y agentes geológicos externos (Geomorfología y Geodinámica externa)
+compe132;bloque20;Tectónica y agentes geológicos internos (Geología estructural y Geodinámica interna)
+compe133;bloque20;Historia de la Tierra y los seres vivos. Evolución
+compe134;bloque20;Composición química de los seres vivos
+compe135;bloque20;La célula y los tejidos
+compe136;bloque20;Reino animal
+compe137;bloque20;Reino plantas
+compe138;bloque20;Otros reinos de seres vivos
+compe139;bloque20;El cuerpo humano
+compe140;bloque20;Ecología
+compe141;bloque20;Genética
+compe142;bloque21;Estructura de la materia
+compe143;bloque21;Tabla periódica. Formulación
+compe144;bloque21;Reacciones Químicas
+compe145;bloque21;Química y actividad industrial
+compe146;bloque21;Estudio de los movimientos
+compe147;bloque21;Dinámica: fuerza y presión
+compe148;bloque21;Trabajo, energía y calor
+compe149;bloque21;Ondas
+compe150;bloque21;Electricidad y magnetismo
+compe151;bloque11;Mostrar Habilidades
